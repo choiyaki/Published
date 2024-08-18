@@ -10,7 +10,7 @@ LANDING_DESCRIPTION = "ここには何を書こうかな？"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "📕map%20of%20contents"
 # (Optional) Site title on landing page
-LANDING_TITLE = "ここのことば考え中🤔"
+LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
