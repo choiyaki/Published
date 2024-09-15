@@ -8,7 +8,7 @@ LANDING_BUTTON = "📕️Map of Contents"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "ここには何を書こうかな？"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "【📕map%20of%20contents】"
+LANDING_PAGE = "”📕map%20of%20contents”"
 # (Optional) Site title on landing page
 LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
