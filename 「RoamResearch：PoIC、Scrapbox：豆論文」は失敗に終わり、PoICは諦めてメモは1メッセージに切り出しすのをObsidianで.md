@@ -1,9 +1,3 @@
----
-sr-due: 2021-10-06
-sr-interval: 6
-sr-ease: 250
----
-
 RoamResearch：PoIC、Scrapbox：豆論文
 
 - RoamResearchは、PoIC的な役割？？
