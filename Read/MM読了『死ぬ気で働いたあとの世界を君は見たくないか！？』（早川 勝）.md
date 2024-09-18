@@ -1,4 +1,4 @@
-MM読了『死ぬ気で働いたあとの世界を君は見たくないか!?』（早川 勝）
+MM読了『死ぬ気で働いたあとの世界を君は見たくないか！？』（早川 勝）
 [![](https://images-fe.ssl-images-amazon.com/images/I/51kDos9h-HL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4761268980/choiyaki81-22/ref=nosim)
 [『死ぬ気で働いたあとの世界を君は見たくないか!?』（早川 勝）](http://www.amazon.co.jp/exec/obidos/ASIN/4761268980/choiyaki81-22/ref=nosim)
 なんかうまくいってないなぁ、情熱が沸いてないなぁと思ってるときにみつけたので、この本を購入。
