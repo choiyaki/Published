@@ -4,11 +4,11 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "📕️Map of Contents"
+LANDING_BUTTON = "📕️Map of Contents List"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "ここには何を書こうかな？"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "_📕map%20of%20contents"
+LANDING_PAGE = "_📕map%20of%20contents%20list"
 # (Optional) Site title on landing page
 LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
