@@ -1,1 +1,2 @@
 - 20250220_[[📝colected thoughts/📋Update history]]
+- 20250220_[[📋Update history]]
