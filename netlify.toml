@@ -13,7 +13,7 @@ LANDING_PAGE = "_🏠Home"
 LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
+REPO_URL = "https://github.com/choiyaki/obsidian-zola-p"
 # (Optional) Site title in navbar
 SITE_TITLE = "🧠思考の足場"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
