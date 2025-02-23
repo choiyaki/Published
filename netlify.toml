@@ -42,6 +42,7 @@ FOOTER = ""
 ROOT_SECTION_NAME = "main"
 # If "y", clicking on graph link replaces current tab. Else, page is opened in new tab. Default: "".
 GRAPH_LINK_REPLACE = "y"
+LIST_LINK_REPLACE = "y"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
