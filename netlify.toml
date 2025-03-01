@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "🏠Home"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = ""
+LANDING_DESCRIPTION = "👇Enter the 🧠思考の足場👇"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "_🏠Home"
 # (Optional) Site title on landing page
@@ -39,7 +39,7 @@ SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "main"
+ROOT_SECTION_NAME = "📍MAP OF CONTENTS"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
