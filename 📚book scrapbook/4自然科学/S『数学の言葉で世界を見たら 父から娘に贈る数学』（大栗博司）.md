@@ -1,3 +1,4 @@
+
 『数学の言葉で世界を見たら 父から娘に贈る数学』（大栗博司）
 [![](https://images-fe.ssl-images-amazon.com/images/I/41bxG6DvnIL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/434402740X/choiyaki81-22/ref=nosim)
 [『数学の言葉で世界を見たら 父から娘に贈る数学』（大栗 博司）](http://www.amazon.co.jp/exec/obidos/ASIN/434402740X/choiyaki81-22/ref=nosim)
@@ -12,3 +13,4 @@
 著者： #大栗博司 
 出版社： #幻冬舎
 発行：2015
+分類：[[41数学]]
