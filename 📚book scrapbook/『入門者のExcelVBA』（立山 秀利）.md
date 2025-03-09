@@ -1,4 +1,4 @@
-[[?2020/04/19 (Sun)] 06:29
+2020/04/19 (Sun) 06:29
 [![](https://gyazo.com/d2f3968b3eb289c92917b3458002ea71.img)](http://amzn.to/2XMyjA8)
 [『入門者のExcelVBA』（立山 秀利）](https://amzn.to/2XMyjA8)
 

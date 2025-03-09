@@ -1,4 +1,4 @@
-[[20190222]]
+
 [![](https://gyazo.com/6ae784d15f1dd10ab5b8f1de8209da32.img)](http://www.amazon.co.jp/gp/product/B01M4L4UZW/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01M4L4UZW&linkCode=as2&tag=choiyaki81-22&linkId=ba7d963da39d7fb2f163f695dbf71470)
 [『鬼速PDCA』（冨田 和成）](https://www.amazon.co.jp/gp/product/B01M4L4UZW/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01M4L4UZW&linkCode=as2&tag=choiyaki81-22&linkId=ba7d963da39d7fb2f163f695dbf71470)
 
