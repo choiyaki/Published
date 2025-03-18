@@ -35,7 +35,7 @@ HOME_GRAPH = "y"
 PAGE_GRAPH = "y"
 LOCAL_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "y"
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
