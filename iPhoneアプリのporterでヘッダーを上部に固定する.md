@@ -1,0 +1,92 @@
+---
+created: 1758622795
+updated: 1758633315
+---
+
+Cosenseを扱うブラウザがSafari以外ならヘッダー位置を調整する。なのでおそらくSafari以外のブラウザを使うと変な挙動になると思われる。
+
+code:script.js
+- // ====== Choiyaki 用 Cosense UserScript（header: .row + Safari判定） ======
+- 
+- (() => {
+    - 'use strict';
+- 
+    - // Safari純正ブラウザかどうか判定
+    - function isSafari() {
+        - const ua = navigator.userAgent;
+        - return /Safari/.test(ua) && /Version\//.test(ua);
+    - }
+- 
+    - // Safariなら何もしない
+    - if (isSafari()) {
+        - console.log('[[UserScript]] Safari detected → 補正スクリプト無効化');
+        - return;
+    - }
+- 
+    - const headerSelector = '.navbar';  // ヘッダー要素のクラス
+    - let header = null;
+- 
+    - function findHeader() {
+        - if (!document.body) return null;
+        - return document.querySelector(headerSelector);
+    - }
+- 
+    - function adjustHeaderStyles(el) {
+        - el.style.position = 'fixed';
+        - el.style.top = '0';
+        - el.style.left = '0';
+        - el.style.right = '0';
+        - el.style.zIndex = '10000';
+        - el.style.transition = 'transform 150ms ease-out';
+    - }
+- 
+    - function updateHeaderOnKeyboard() {
+        - const vv = window.visualViewport;
+        - if (!vv) {
+            - header.style.transform = '';
+            - return;
+        - }
+        - const offsetTop = vv.offsetTop || 0;
+        - const translateY = Math.max(0, offsetTop);
+        - header.style.transform = `translateY(${translateY}px)`;
+    - }
+- 
+    - function onFocusIn(event) {
+        - const t = event.target;
+        - if (!t) return;
+        - const tag = t.tagName;
+        - const isInput = (tag === 'INPUT' || tag === 'TEXTAREA' || t.isContentEditable === true);
+        - if (!isInput) return;
+        - window.requestAnimationFrame(updateHeaderOnKeyboard);
+    - }
+- 
+    - function onFocusOut(event) {
+        - window.requestAnimationFrame(() => {
+            - if (header) header.style.transform = '';
+        - });
+    - }
+- 
+    - function init() {
+        - header = findHeader();
+        - if (!header) {
+            - console.warn('[[UserScript]] header element (.row) not found.');
+            - return;
+        - }
+        - adjustHeaderStyles(header);
+- 
+        - if (window.visualViewport) {
+            - window.visualViewport.addEventListener('resize', updateHeaderOnKeyboard, { passive: true });
+            - window.visualViewport.addEventListener('scroll', updateHeaderOnKeyboard, { passive: true });
+        - } else {
+            - window.addEventListener('resize', updateHeaderOnKeyboard, { passive: true });
+        - }
+        - document.addEventListener('focusin', onFocusIn, true);
+        - document.addEventListener('focusout', onFocusOut, true);
+    - }
+- 
+    - if (document.readyState === 'complete' || document.readyState === 'interactive') {
+        - setTimeout(init, 50);
+    - } else {
+        - document.addEventListener('DOMContentLoaded', () => setTimeout(init, 50));
+    - }
+- })();

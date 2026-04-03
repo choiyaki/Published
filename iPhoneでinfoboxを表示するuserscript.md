@@ -1,0 +1,64 @@
+---
+created: 1772706568
+updated: 1772709039
+---
+
+code:script.js
+- // ==UserScript==
+- // @name         Cosense Infobox Under Editor (final)
+- // @match        https://scrapbox.io/*
+- // @grant        none
+- // ==/UserScript==
+- 
+- (function () {
+- 
+    - const processed = new WeakSet();
+- 
+    - function setupInfobox() {
+- 
+        - if (window.innerWidth > 800) return;
+- 
+        - const editor = document.querySelector(".editor");
+        - if (!editor) return;
+- 
+        - const boxes = document.querySelectorAll(".infobox");
+        - if (!boxes.length) return;
+- 
+        - boxes.forEach(box => {
+- 
+            - if (processed.has(box)) return;
+- 
+            - // エディタ直後へ移動
+            - editor.parentNode.insertBefore(box, editor.nextSibling);
+- 
+            - // スタイル
+            - box.style.position = "relative";
+            - box.style.width = "100%";
+            - box.style.height = "auto";
+- 
+            - box.style.marginTop = "10px";
+            - box.style.overflow = "auto";
+- 
+            - box.style.background = "var(--bg, [[f7f7f7)";]]
+            - box.style.border = "1px solid rgba(0,0,0,0.15)";
+            - box.style.borderRadius = "6px";
+            - box.style.padding = "6px";
+- 
+            - processed.add(box);
+- 
+        - });
+- 
+    - }
+- 
+    - // DOM変化監視（Cosense SPA対応）
+    - const observer = new MutationObserver(setupInfobox);
+- 
+    - observer.observe(document.body, {
+        - childList: true,
+        - subtree: true
+    - });
+- 
+    - // 初回実行
+    - setupInfobox();
+- 
+- })();

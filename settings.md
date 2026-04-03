@@ -1,0 +1,82 @@
+---
+created: 1743233449
+updated: 1758593067
+---
+
+![](https://gyazo.com/ddbb6900483abcb2e6c682c24374d416)
+
+
+code:style.css
+- @import "/api/code/scrasobox/見える文字数カウンター/style.css";
+- @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap');
+- 
+- .new-button { /* 新規ボタンを消す */
+      - visibility: hidden;
+- }
+- 
+- .editor, .stream {
+      - font-family: "IBM Plex Sans JP",  sans-serif !important;
+  - }
+- .grid li ,.quick-launch .project-home .title {
+      - font-family: "IBM Plex Sans JP", sans-serif !important;
+  - }
+- 
+  - .line.line-title .text {
+              - font-weight: 550;
+              - line-height: 1.2em;
+              - font-size: 20px;
+              - color: [[2F4F4F;]]
+    - }
+- 
+- .line .indent-mark .dot {
+              - //top: 12px;
+              - //width: 8px;
+              - //height: 3px;
+              - background-color: [[A9A9A9;]]
+              - //border-radius: 20%;
+          - } 
+- 
+- .grid li.page-list-item a {
+      - background-color: snow;
+  - }
+- .grid li.page-list-item > a[[href$="%E6%97%A5%E8%AA%8C"]] {
+        - //opacity: .5;
+      - background-color: aliceblue;
+- }
+- .grid li.page-list-item > a[[href$="%E5%95%8F%E9%A1%8C"]] {
+        - //opacity: .5;
+      - background-color: aliceblue;
+- }
+- 
+- 
+- .grid li.page-list-item a .header .title {
+    - font-size: 11.5px;
+    - line-height: 16.5px !important;
+    - margin-bottom: -10px;
+- }
+- .grid li.page-list-item a .title {
+      - max-height: 200px !important;
+- }
+- .grid li.page-list-item a .description {
+    - font-size: 10.5px;
+    - line-height: 16px !important;
+- }
+- 
+  - .indent-mark {
+    - height: 100% !important;
+  - }
+  - .indent-mark .pad {
+    - height: 100% !important;
+    - overflow: unset !important;
+  - }
+  - .indent-mark span:nth-child(2n+1) .pad {
+    - background: [[f8f8f8;]]
+  - }
+  - 
+- /*popupmenuのSplit into new pageを消す*/
+- .selections .popup-menu .button-container .button.split-page-button,
+- .selections .popup-menu .button-container .button.copy-plain-button 
+- {
+      - display: none !important;
+- }
+-

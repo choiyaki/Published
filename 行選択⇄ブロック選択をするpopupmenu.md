@@ -1,0 +1,113 @@
+---
+created: 1756713908
+updated: 1759014634
+---
+
+
+code:script.js
+- // ==UserScript==
+- // @name         Cosense Mobile Select/ExpandUntilBlank PopupMenu Button
+- // @namespace    http://tampermonkey.net/
+- // @version      1.3
+- // @description  行選択 → 次の空行手前まで一気にブロック選択
+- // @match        *://*/*
+- // @grant        none
+- // ==/UserScript==
+- 
+- (function() {
+        - 'use strict';
+- 
+        - // -----------------------------
+        - // textarea と行取得関数
+        - // -----------------------------
+        - function a() {
+                - const ta = document.getElementById("text-input");
+                - if (!ta) throw Error("#text-input not found");
+                - return ta;
+        - }
+- 
+        - function f() {
+                - const linesDiv = document.getElementsByClassName("lines").item(0);
+                - if (!linesDiv) throw Error("div.lines not found");
+                - const key = Object.keys(linesDiv).find(k => k.startsWith("__reactFiber"));
+                - if (!key) throw Error("div.lines missing __reactFiber");
+                - return linesDiv[[key]].return.stateNode.props.lines;
+        - }
+- 
+        - function d() {
+                - const ta = a();
+                - const key = Object.keys(ta).find(k => k.startsWith("__reactFiber"));
+                - if (!key) throw Error("textarea missing __reactFiber");
+                - return ta[[key]].return.return.stateNode.props;
+        - }
+- 
+        - function h() {
+                - const ta = a();
+                - const key = Object.keys(ta).find(k => k.startsWith("__reactFiber"));
+                - if (!key) throw Error("textarea missing __reactFiber");
+                - const stores = ta[[key]].return.return.stateNode._stores;
+                - const selection = stores.find(s => s.constructor.name === "Selection");
+                - if (!selection) throw Error("Selection store not found");
+                - return { selection };
+        - }
+- 
+        - function O() { return h().selection; }
+- 
+        - // -----------------------------
+        - // 選択拡張ロジック
+        - // -----------------------------
+        - let expanded = false; // 1回目か2回目かのフラグ
+- 
+        - function toggleSelectExpand() {
+                - const { position } = d();
+                - const lines = f();
+                - if (!position || !lines[[position.line]]) return;
+- 
+                - if (!expanded) {
+                        - // --- 1回目: カーソル行だけ選択 ---
+                        - O().setRange({
+                                - start: { line: position.line, char: 0 },
+                                - end:   { line: position.line, char: lines[[position.line]].text.length }
+                        - });
+                        - expanded = true;
+                - } else {
+                        - // --- 2回目: 空行の手前まで一気に選択 ---
+                        - let endLine = position.line;
+                        - for (let i = position.line + 1; i < lines.length; i++) {
+                                - if (lines[[i]].text.trim() === "") break; // 空行に到達したら止める
+                                - endLine = i;
+                        - }
+                        - O().setRange({
+                                - start: { line: position.line, char: 0 },
+                                - end:   { line: endLine, char: lines[[endLine]].text.length }
+                        - });
+                        - expanded = false; // また次回は1行からスタート
+                - }
+- 
+                - a().focus(); // フォーカス保持
+        - }
+- 
+        - // -----------------------------
+        - // popupmenu に追加
+        - // -----------------------------
+        - scrapbox.PopupMenu.addButton({
+                - title: "Select",
+                - /*"\uf248",*/ // fa-object-ungroup のUnicode
+                - onClick: toggleSelectExpand
+        - });
+- 
+        - // -----------------------------
+        - // Font Awesome 用のスタイルを注入
+        - // -----------------------------
+        - const style = document.createElement("style");
+        - style.textContent = `
+            - .selections .popup-menu .button-container .button {
+                - font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands", sans-serif;
+                - /*font-weight: 900;  solid アイコン */
+                - font-size: 14px;
+                - line-height: 2;
+            - }
+        - `;
+        - document.head.appendChild(style);
+- 
+- })();

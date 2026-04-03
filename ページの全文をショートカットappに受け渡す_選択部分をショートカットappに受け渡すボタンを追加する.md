@@ -1,0 +1,44 @@
+---
+created: 1756596450
+updated: 1756596468
+---
+
+code:script.js
+  - //全文をショートカットappに受け渡す(その後、markdownに変換に、クリップボードに)
+  - scrapbox.PageMenu.addMenu({
+      - title: 'NewButton',
+      - image: 'https://i.gyazo.com/7057219f5b20ca8afd122945b72453d3.png',
+      - onClick: () => {
+          - const title = scrapbox.Page.title;
+          - const url = "https://scrapbox.io/api/pages/choiyaki/" + title;
+          - 
+          - fetch(url)
+              - .then(response => {
+                  - if (!response.ok) {
+                      - throw new Error(`HTTP error! Status: ${response.status}`);
+                  - }
+                  - return response.json();
+              - })
+              - .then(d => {
+                  - let s = d.title + "\n\n";
+                  - for (let i = 1; i < d.lines.length; i++) {
+                      - s += d.lines[[i]].text + "\n";
+                  - }
+                  - location="shortcuts://run-shortcut?name=StoM&input=" + encodeURIComponent(s)
+              - })
+              - .catch(error => {
+                  - console.error("Error fetching Scrapbox page:", error);
+                  - alert("データの取得に失敗しました。");
+              - });
+      - }
+  - });
+  - 
+  - // 選択された文字列をショートカットappに受け渡す(その後 markdownに変換)
+  - scrapbox.PopupMenu.addButton({
+          - title: 'mdコピー',
+          - onClick: function (text) {
+            - var projectName = 'daiiz';
+              - window.open("shortcuts://run-shortcut?name=StoM&input=" + encodeURIComponent(text));
+          - }
+  - });
+  -
