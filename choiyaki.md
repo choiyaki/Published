@@ -1,6 +1,6 @@
 ---
 created: 1743233682
-updated: 1772706682
+updated: 1775481428
 ---
 
 ![](https://scrapbox.io/files/63ff638713f1d0001cc2e6ef.png)
