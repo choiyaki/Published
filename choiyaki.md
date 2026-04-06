@@ -1,10 +1,9 @@
 ---
 created: 1743233682
-updated: 1775481428
+updated: 1775481494
 ---
 
 ![](https://scrapbox.io/files/63ff638713f1d0001cc2e6ef.png)
-
 code:script.js
 - 
 - import "/api/code/scrasobox/見える文字数カウンター/script.js";
