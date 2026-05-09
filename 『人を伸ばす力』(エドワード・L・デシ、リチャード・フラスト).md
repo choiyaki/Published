@@ -1,10 +1,10 @@
 ---
 created: 1742601898
-updated: 1742601898
+updated: 1778320152
 ---
 
 『人を伸ばす力』（エドワード・L・デシ、リチャード・フラスト）
-[https://gyazo.com/296aa5c023bcb80a3d14ff132599b369.img](http://www.amazon.co.jp/gp/product/4788506793/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4788506793&linkCode=as2&tag=choiyaki81-22&linkId=db8c70a130b858daf3daaaaa85332c58)
+[![](https://gyazo.com/296aa5c023bcb80a3d14ff132599b369.img)](http://www.amazon.co.jp/gp/product/4788506793/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4788506793&linkCode=as2&tag=choiyaki81-22&linkId=db8c70a130b858daf3daaaaa85332c58)
 [『人を伸ばす力』（エドワード・L・デシ、リチャード・フラスト）](https://www.amazon.co.jp/gp/product/4788506793/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4788506793&linkCode=as2&tag=choiyaki81-22&linkId=db8c70a130b858daf3daaaaa85332c58)
 
 むちゃおもしろかった。
