@@ -1,3 +1,8 @@
+---
+created: 1779541374
+updated: 1779541374
+---
+
 ### DOMAINE YUZAWA 純米酒
 ![](https://gyazo.com/33cd104e4086b5a919919aa33526974a.jpg)
 
