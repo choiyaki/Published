@@ -1,10 +1,10 @@
 ---
 created: 1780752080
-updated: 1780752080
+updated: 1780969159
 ---
 
 20200517 (Sun) 05:14
-[https://gyazo.com/e869e4f7a481bc636e30dfc3ff1218e7.img](http://amzn.to/2Z73EOR)
+[![](https://gyazo.com/e869e4f7a481bc636e30dfc3ff1218e7.jpg)](http://amzn.to/2Z73EOR)
 [『「ビジネスマナー」 基本の基本(PHP文庫)』（高岡 よしみ）](https://amzn.to/2Z73EOR)
 
 今後ビジネスマナーちゃんとできるようになっておいた方がいいから、と思って購入。

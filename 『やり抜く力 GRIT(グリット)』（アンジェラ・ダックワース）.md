@@ -1,10 +1,10 @@
 ---
 created: 1780751752
-updated: 1780751752
+updated: 1780969159
 ---
 
 
-[https://gyazo.com/daccd005325e0dfc553aea36310b59f7.img](http://amzn.to/2WxH6Ud)
+[![](https://gyazo.com/daccd005325e0dfc553aea36310b59f7.jpg)](http://amzn.to/2WxH6Ud)
 
 [『やり抜く力 GRIT(グリット)』（アンジェラ・ダックワース）](https://amzn.to/2WxH6Ud)
 

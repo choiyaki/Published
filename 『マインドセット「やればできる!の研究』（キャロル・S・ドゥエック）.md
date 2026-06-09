@@ -1,9 +1,9 @@
 ---
 created: 1780751961
-updated: 1780751961
+updated: 1780969159
 ---
 
-[https://gyazo.com/1c9975ba923bd0aefd836956551a82e4.img](http://amzn.to/38GwSGP)
+[![](https://gyazo.com/1c9975ba923bd0aefd836956551a82e4.jpg)](http://amzn.to/38GwSGP)
 [『マインドセット「やればできる！の研究』（キャロル・S・ドゥエック）](https://amzn.to/38GwSGP)
 
 まずオーディオブックで聞き、紙の本を買って通読。

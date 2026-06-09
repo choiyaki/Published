@@ -1,10 +1,10 @@
 ---
 created: 1780751822
-updated: 1780751822
+updated: 1780969159
 ---
 
 20200630 (Tue) 16:50
-[https://gyazo.com/866d6239d912444e017d5a328babd668.img](http://amzn.to/3gcbcVU)
+[![](https://gyazo.com/866d6239d912444e017d5a328babd668.jpg)](http://amzn.to/3gcbcVU)
 [『ブレンディッド・ラーニングの衝撃』（マイケル・B・ホーン、ヘザー・ステイカー、小松 健司）](https://amzn.to/3gcbcVU)
 
 非常に魅力的な内容。かつ、実践への架け橋になってくれそうな本。

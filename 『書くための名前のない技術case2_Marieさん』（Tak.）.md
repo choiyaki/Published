@@ -1,10 +1,10 @@
 ---
 created: 1780751639
-updated: 1780751639
+updated: 1780969159
 ---
 
 『書くための名前のない技術case2：Marieさん』（Tak.）[[?2020/06/13 (Sat)]] 10:38
-[https://gyazo.com/ebd68bdac14b3d86bfdc261ea0f04104.img](http://amzn.to/2Yy28mK)
+[![](https://gyazo.com/ebd68bdac14b3d86bfdc261ea0f04104.jpg)](http://amzn.to/2Yy28mK)
 [『書くための名前のない技術case2：Marieさん』（Tak.）](https://amzn.to/2Yy28mK)
 書いてきた記事を集めて、アウトライナーでぐちゃぐちゃにして、アウトライナーで考えて、書き上げ、仕上げる。
 ときには紙に印刷して考えたり。

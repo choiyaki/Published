@@ -1,10 +1,10 @@
 ---
 created: 1780751971
-updated: 1780751971
+updated: 1780969159
 ---
 
 [[?2020/04/19 (Sun)]] 06:35
-[https://gyazo.com/15054264b769ba54ddf66f0697a492d3.img](http://amzn.to/2xF2sH5)
+[![](https://gyazo.com/15054264b769ba54ddf66f0697a492d3.jpg)](http://amzn.to/2xF2sH5)
 [『脱入門者のExcelVBA』（立山 秀利）](https://amzn.to/2xF2sH5)
 
 別のブックにデータを転記する方法を通して、デバッグやコードの修正についても学べる。「入門者のExcelVBA」と似ている操作のコードもあるので、復習とそこからの応用を学ぶことができた。

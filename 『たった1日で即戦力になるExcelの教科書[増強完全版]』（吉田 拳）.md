@@ -1,9 +1,9 @@
 ---
 created: 1780751902
-updated: 1780751902
+updated: 1780969159
 ---
 
-[https://gyazo.com/dade04a7d850cd4d4e9a7402ac77bf0c.img](http://amzn.to/2VfvFBw)
+[![](https://gyazo.com/dade04a7d850cd4d4e9a7402ac77bf0c.jpg)](http://amzn.to/2VfvFBw)
 [『たった1日で即戦力になるExcelの教科書［増強完全版］』（吉田 拳）](https://amzn.to/2VfvFBw)
 
 データの管理や集計が必要となるので、Excelを学べる本を、と思って購入。

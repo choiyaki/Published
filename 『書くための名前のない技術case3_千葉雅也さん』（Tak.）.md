@@ -1,10 +1,10 @@
 ---
 created: 1780751840
-updated: 1780751840
+updated: 1780969159
 ---
 
 20200525 (Mon) 05:08
-[https://gyazo.com/68e8bf7fdbf84a3bbd413279723ea2e2.img](http://amzn.to/2TzHSjj)
+[![](https://gyazo.com/68e8bf7fdbf84a3bbd413279723ea2e2.jpg)](http://amzn.to/2TzHSjj)
 [[『書くための名前のない技術case3：千葉雅也さん』（Tak.） https：//amzn.to/2TzHSjj]]
 立て続けに2回読み読み。
 

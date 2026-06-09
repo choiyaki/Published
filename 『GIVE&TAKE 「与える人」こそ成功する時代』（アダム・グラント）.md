@@ -1,9 +1,9 @@
 ---
 created: 1780751852
-updated: 1780751852
+updated: 1780969159
 ---
 
-[https://gyazo.com/74b0c8d382c9944f6413e034adf32111.img](http://amzn.to/35DoSqP)
+[![](https://gyazo.com/74b0c8d382c9944f6413e034adf32111.jpg)](http://amzn.to/35DoSqP)
 [『GIVE&TAKE 「与える人」こそ成功する時代』（アダム・グラント）](https://amzn.to/35DoSqP)
 
 楽しく読めた。
