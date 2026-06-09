@@ -1,10 +1,10 @@
 ---
 created: 1780751760
-updated: 1780751760
+updated: 1780967970
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41Cht0Cn8mL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B00L9UYH7W/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41Cht0Cn8mL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00L9UYH7W/choiyaki81-22/ref=nosim)
 [『Category Allegory』（倉下 忠憲）](http://www.amazon.co.jp/exec/obidos/ASIN/B00L9UYH7W/choiyaki81-22/ref=nosim)
 30分ほどで読了。おもしろかった。
 ストーリーの一つ一つがおもしろく、長くないのでサクサクっとテンポ良く読める。倉下さんの短いストーリー、ぼく、かなり好きかもしれません。

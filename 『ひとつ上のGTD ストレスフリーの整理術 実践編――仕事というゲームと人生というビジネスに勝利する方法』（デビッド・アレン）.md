@@ -1,10 +1,10 @@
 ---
 created: 1780751655
-updated: 1780751655
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/51ebP%2BIvn5L._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4576101714/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51ebP%2BIvn5L._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4576101714/choiyaki81-22/ref=nosim)
 [『ひとつ上のGTD ストレスフリーの整理術 実践編——仕事というゲームと人生というビジネスに勝利する方法』（デビッド・アレン）](http://www.amazon.co.jp/exec/obidos/ASIN/4576101714/choiyaki81-22/ref=nosim)
 ストレスフリーの整理術読んで、いくつかまた実践しはじめたことがあったので、さらに洗練していきたいがために購入。
 発売当初から気になってたけど、やっとこ購入した。

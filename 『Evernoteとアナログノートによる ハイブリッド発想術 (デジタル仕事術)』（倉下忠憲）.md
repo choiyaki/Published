@@ -1,9 +1,9 @@
 ---
 created: 1780751832
-updated: 1780751832
+updated: 1780967970
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/41kEDq5iQ6L._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4774151505/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41kEDq5iQ6L._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4774151505/choiyaki81-22/ref=nosim)
 [『Evernoteとアナログノートによる ハイブリッド発想術 (デジタル仕事術)』（倉下 忠憲）](http://www.amazon.co.jp/exec/obidos/ASIN/4774151505/choiyaki81-22/ref=nosim)
 倉下さんのノートについての本は、やっぱり欲しくなっちゃうので購入。
 

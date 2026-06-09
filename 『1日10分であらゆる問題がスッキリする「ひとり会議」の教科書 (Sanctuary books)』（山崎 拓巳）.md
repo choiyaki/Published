@@ -1,10 +1,10 @@
 ---
 created: 1780751849
-updated: 1780751849
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41ia56kHwZL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4861139465/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41ia56kHwZL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4861139465/choiyaki81-22/ref=nosim)
 [『１日１０分であらゆる問題がスッキリする「ひとり会議」の教科書 (Sanctuary books)』（山崎 拓巳）](http://www.amazon.co.jp/exec/obidos/ASIN/4861139465/choiyaki81-22/ref=nosim)
 前から興味があったので購入。
 

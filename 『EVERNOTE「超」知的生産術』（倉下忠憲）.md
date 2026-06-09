@@ -1,9 +1,9 @@
 ---
 created: 1780751700
-updated: 1780751700
+updated: 1780967970
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/51OnU0cd03L._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4863540817/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51OnU0cd03L._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4863540817/choiyaki81-22/ref=nosim)
 [『EVERNOTE「超」知的生産術』（倉下 忠憲）](http://www.amazon.co.jp/exec/obidos/ASIN/4863540817/choiyaki81-22/ref=nosim)
 
 再読終了。今、自分の中で知的生産についていろいろと本読むのがブームで、倉下さんの本もこれと、つぎはハイブリット発想術を読み返そうかなと。

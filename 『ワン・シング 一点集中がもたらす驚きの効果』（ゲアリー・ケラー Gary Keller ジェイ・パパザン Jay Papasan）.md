@@ -1,9 +1,9 @@
 ---
 created: 1780751914
-updated: 1780751914
+updated: 1780967969
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/41pMxIeZZpL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4797375116/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41pMxIeZZpL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4797375116/choiyaki81-22/ref=nosim)
 [『ワン・シング 一点集中がもたらす驚きの効果』（ゲアリー・ケラー Gary Keller ジェイ・パパザン Jay Papasan）](http://www.amazon.co.jp/exec/obidos/ASIN/4797375116/choiyaki81-22/ref=nosim)
 定期的に何度も読み返してる。で、今回読んでみて、まだまだほんまには理解できてなかったし、全然実践できてなかったなぁと思った。ちょっとは今回読んで理解が深まったので、また再度実践していきたい。1年後また読むときに、できてるところも出てきたかも、と思えるように。
 

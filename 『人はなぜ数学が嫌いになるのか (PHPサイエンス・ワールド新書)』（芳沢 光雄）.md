@@ -1,10 +1,10 @@
 ---
 created: 1780751950
-updated: 1780751950
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41P%2B%2BgVWtFL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4569790895/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41P%2B%2BgVWtFL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4569790895/choiyaki81-22/ref=nosim)
 [『人はなぜ数学が嫌いになるのか (PHPサイエンス・ワールド新書)』（芳沢 光雄）](http://www.amazon.co.jp/exec/obidos/ASIN/4569790895/choiyaki81-22/ref=nosim)
 ただ単純に、数学嫌いの理由が知りたくて購入。
 

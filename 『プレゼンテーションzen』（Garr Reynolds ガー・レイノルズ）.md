@@ -1,10 +1,10 @@
 ---
 created: 1780751844
-updated: 1780751844
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/413z-nHOErL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4894713284/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/413z-nHOErL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4894713284/choiyaki81-22/ref=nosim)
 [『プレゼンテーションzen』（Garr Reynolds ガー・レイノルズ）](http://www.amazon.co.jp/exec/obidos/ASIN/4894713284/choiyaki81-22/ref=nosim)
 その存在を知ったあと、いろんなブログでちょくちょく登場してるのを見て、以前から読んで見たいなぁと思っていたので購入。
 

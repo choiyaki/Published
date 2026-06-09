@@ -1,10 +1,10 @@
 ---
 created: 1780751803
-updated: 1780751803
+updated: 1780967970
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/51wJmoykwcL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4047100080/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51wJmoykwcL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4047100080/choiyaki81-22/ref=nosim)
 [『決断力 (角川oneテーマ21)』（羽生 善治）](http://www.amazon.co.jp/exec/obidos/ASIN/4047100080/choiyaki81-22/ref=nosim)
 Kindleストアを散策してて購入。
 

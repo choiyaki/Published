@@ -1,9 +1,9 @@
 ---
 created: 1780751748
-updated: 1780751748
+updated: 1780967970
 ---
 
-[https://gyazo.com/20f5b62561b24fa89752865dbfa5372c.jpg](https://amzn.to/3rShP79)
+[![](https://gyazo.com/20f5b62561b24fa89752865dbfa5372c.jpg)](https://amzn.to/3rShP79)
 [『良い戦略、悪い戦略』（リチャード・P・ルメルト）](https://amzn.to/3rShP79)
 
 寝る前に5分くらいずつ読み進めた。

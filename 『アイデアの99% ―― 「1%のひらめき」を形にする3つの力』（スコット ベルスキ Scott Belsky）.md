@@ -1,10 +1,10 @@
 ---
 created: 1780751808
-updated: 1780751808
+updated: 1780967968
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/51Bxx5EwUFL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4862761178/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51Bxx5EwUFL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4862761178/choiyaki81-22/ref=nosim)
 [『アイデアの99% —— 「1%のひらめき」を形にする3つの力』（スコット ベルスキ Scott Belsky）](http://www.amazon.co.jp/exec/obidos/ASIN/4862761178/choiyaki81-22/ref=nosim)
 書店で見かけ、以前から気になってたので購入。
 アイデアの発想法の本ではなく、生まれ出たアイデアをいかに実現させるかについて書かれた本。

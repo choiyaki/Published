@@ -1,10 +1,10 @@
 ---
 created: 1780751676
-updated: 1780751676
+updated: 1780967968
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/31fHkwzDDVL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4534046219/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/31fHkwzDDVL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4534046219/choiyaki81-22/ref=nosim)
 [『〈NJセレクト〉コーチングのプロが教える「ほめる」技術』（鈴木 義幸）](http://www.amazon.co.jp/exec/obidos/ASIN/4534046219/choiyaki81-22/ref=nosim)
 店頭でみかけて購入。
 

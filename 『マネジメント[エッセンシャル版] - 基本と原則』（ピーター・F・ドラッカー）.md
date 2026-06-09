@@ -1,10 +1,10 @@
 ---
 created: 1780751655
-updated: 1780751655
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41AY8WEF74L._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4478410232/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41AY8WEF74L._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4478410232/choiyaki81-22/ref=nosim)
 [『マネジメント［エッセンシャル版］ 基本と原則』（ピーター・F・ドラッカー）](http://www.amazon.co.jp/exec/obidos/ASIN/4478410232/choiyaki81-22/ref=nosim)
 家にあったので読んでみることに。
 

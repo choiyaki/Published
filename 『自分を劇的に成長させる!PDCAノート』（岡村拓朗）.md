@@ -1,9 +1,9 @@
 ---
 created: 1780751850
-updated: 1780751850
+updated: 1780967969
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/51tt2Djo-nL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B01N0XPCKR/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51tt2Djo-nL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B01N0XPCKR/choiyaki81-22/ref=nosim)
 [『自分を劇的に成長させる！PDCAノート』（岡村拓朗）](https://amzn.to/3p2fYLS)
 
 途中までやけどスピーディに読み返していった。鬼速のほうが、PDCAの各フェーズについては詳しく語られている。一方で本書は、具体的な方法論として「PDCAノート」を紹介してるから、実践しやすい。で、その書き方上、PDCAノートは、小さめのPDCAを回すのに向いてそう。

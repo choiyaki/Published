@@ -1,10 +1,10 @@
 ---
 created: 1780751765
-updated: 1780751765
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41Gce8EEY8L._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B00SUDGMTM/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41Gce8EEY8L._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00SUDGMTM/choiyaki81-22/ref=nosim)
 [『マシュマロを、もう一つ: セルフ・マネジメントのヒント集 R-style Selection』（倉下 忠憲）](http://www.amazon.co.jp/exec/obidos/ASIN/B00SUDGMTM/choiyaki81-22/ref=nosim)
 おもしろかった。R-style選集は、どれもおもしろい。タイトルからはどんな内容の本かあんまし想像できんけれども、「セルフマネジメント」についてとのことと、R-styleから選んだものということで、即購入。
 セクションごとに挿入されてる話が、そのセクションに含まれる話を串刺しにしてて、統一してる感じ。それもまたおもしろいなぁ。

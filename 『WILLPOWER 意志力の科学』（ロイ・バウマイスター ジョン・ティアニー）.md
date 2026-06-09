@@ -1,9 +1,9 @@
 ---
 created: 1780751805
-updated: 1780751805
+updated: 1780967969
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/41cHCME5VWL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4772695354/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41cHCME5VWL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4772695354/choiyaki81-22/ref=nosim)
 [『WILLPOWER 意志力の科学』（ロイ・バウマイスター ジョン・ティアニー）](http://www.amazon.co.jp/exec/obidos/ASIN/4772695354/choiyaki81-22/ref=nosim)
 長い期間がかかったけど、読み読み。最後は、おもしろいから一気に読み切った。意志力によって、自分は動いてる。なら、意志力の回復の方法や、消耗を少なくする方法は、自分を効率よく動かすことに役立ってくれる。意志力についての事例も豊富で、そこから導き出される意志力の使い方にも説得力がある。何度も読み返したい一冊。
 

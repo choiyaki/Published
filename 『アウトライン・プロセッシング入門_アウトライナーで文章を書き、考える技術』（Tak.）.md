@@ -1,9 +1,9 @@
 ---
 created: 1780751690
-updated: 1780751690
+updated: 1780967968
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/41WikKyn%2BuL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B00XCIETIG/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41WikKyn%2BuL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00XCIETIG/choiyaki81-22/ref=nosim)
 [『アウトライン・プロセッシング入門: アウトライナーで文章を書き、考える技術』（Tak.）](http://www.amazon.co.jp/exec/obidos/ASIN/B00XCIETIG/choiyaki81-22/ref=nosim)
 「アウトライン・プロセッシングLIFE」を読んでて、読み返したくなって再読。
 本書と両方読んで感じたのは、継続的にアウトライナーを使ってるけど、「考える」ための道具としてまだまだ十分にその力を引き出せてないなーということ。考える時間そのものが少なくなってるというのもあるけど、もっと手に馴染んだ道具にしていきたい。

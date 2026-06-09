@@ -1,9 +1,9 @@
 ---
 created: 1780751762
-updated: 1780751762
+updated: 1780967970
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/51eNz4exOdL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4569791964/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51eNz4exOdL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4569791964/choiyaki81-22/ref=nosim)
 [『挫折力—一流になれる50の思考・行動術 (PHPビジネス新書)』（冨山 和彦）](http://www.amazon.co.jp/exec/obidos/ASIN/4569791964/choiyaki81-22/ref=nosim)
 ファミマでみかけてふと購入。
 

@@ -1,10 +1,10 @@
 ---
 created: 1780751829
-updated: 1780751829
+updated: 1780967968
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41h%2Bj-3LxbL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4774145742/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41h%2Bj-3LxbL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4774145742/choiyaki81-22/ref=nosim)
 [『iPhoneワクワク仕事術 〜イヤな仕事も楽しく変わる仕組みのつくりかた』（小林 英二）](http://www.amazon.co.jp/exec/obidos/ASIN/4774145742/choiyaki81-22/ref=nosim)
 この本は以前から知っていて、読んで見たくなった。
 

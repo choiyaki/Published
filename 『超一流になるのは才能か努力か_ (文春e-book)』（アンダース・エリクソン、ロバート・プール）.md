@@ -1,10 +1,10 @@
 ---
 created: 1780751801
-updated: 1780751801
+updated: 1780967970
 ---
 
 『超一流になるのは才能か努力か？ （文春e-book）』（アンダース・エリクソン、ロバート・プール）
-[https://images-fe.ssl-images-amazon.com/images/I/51iJwnneBqL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B01J9QIGF6/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51iJwnneBqL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B01J9QIGF6/choiyaki81-22/ref=nosim)
 [『超一流になるのは才能か努力か？ (文春e-book)』（アンダース・エリクソン、ロバート・プール）](http://www.amazon.co.jp/exec/obidos/ASIN/B01J9QIGF6/choiyaki81-22/ref=nosim)
 読み応えのある、すごく読んでよかった本。才能ではなく、努力。しかも、ただ単に練習するだけではなく、「目的のある練習」に取り組むこと。さらに能力を伸ばしたいのであれば、「限界的練習」が突破口になることが、いろんな事例をもとに、繰り返し繰り返し説得力を持って述べられる。まだまだやれることはあるはず。そんな気持ちにしてくれた。良かった。
 

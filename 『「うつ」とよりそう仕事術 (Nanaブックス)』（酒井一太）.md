@@ -1,10 +1,10 @@
 ---
 created: 1780751930
-updated: 1780751930
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41a25Tdg%2BAL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4904899245/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41a25Tdg%2BAL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4904899245/choiyaki81-22/ref=nosim)
 [『「うつ」とよりそう仕事術 (Nanaブックス)』（酒井一太）](http://www.amazon.co.jp/exec/obidos/ASIN/4904899245/choiyaki81-22/ref=nosim)
 Find the meaning of my life.の大ファンなので。
 

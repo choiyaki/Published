@@ -1,9 +1,9 @@
 ---
 created: 1780751912
-updated: 1780751912
+updated: 1780967969
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/415lIezKhIL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4840305323/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/415lIezKhIL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4840305323/choiyaki81-22/ref=nosim)
 [『KP法 シンプルに伝える紙芝居プレゼンテーション』（川嶋直）](http://www.amazon.co.jp/exec/obidos/ASIN/4840305323/choiyaki81-22/ref=nosim)
 勉強になった。
 A4用紙15枚程度という、限られた中に伝えたいことを盛り込む。そのためには、情報を精選して、シンプルにしていかなあかん。

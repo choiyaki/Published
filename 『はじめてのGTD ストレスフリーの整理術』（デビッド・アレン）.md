@@ -1,9 +1,9 @@
 ---
 created: 1780751813
-updated: 1780751813
+updated: 1780967969
 ---
 
-[https://images-na.ssl-images-amazon.com/images/I/51umAMmeSlL._SX348_BO1204203200_.jpg](http://www.amazon.co.jp/exec/obidos/asin/4576082116/choiyaki81-22)
+[![](https://images-na.ssl-images-amazon.com/images/I/51umAMmeSlL._SX348_BO1204203200_.jpg)](http://www.amazon.co.jp/exec/obidos/asin/4576082116/choiyaki81-22)
 [はじめてのGTD ストレスフリーの整理術 単行本（ソフトカバー）2008/12/24 デビッド・アレン(著)田口 元(監修 監修)](http://www.amazon.co.jp/exec/obidos/asin/4576082116/choiyaki81-22)
 
 タスク管理や仕事術にふれたとき、まず間違いなく目にする言葉、「GTD」。

@@ -1,10 +1,10 @@
 ---
 created: 1780751866
-updated: 1780751866
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41sZ0NeG5jL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4140815450/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41sZ0NeG5jL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4140815450/choiyaki81-22/ref=nosim)
 [『Think Simple アップルを生みだす熱狂的哲学』（ケン・シーガル）](http://www.amazon.co.jp/exec/obidos/ASIN/4140815450/choiyaki81-22/ref=nosim)
 発売当初くらいから気になってたけど、なぜかずーっと買わず、今になって購入。で、読み終えた。「シンプル」にするって簡単そうに思えるけども、それを世界的に名の知れた企業で、徹底的に追求するってのは実際にはほんまにものすごく難しいんやろう。反対も尋常じゃないやろし、批判もあとを絶たないやろう。それをやってのけたことが、今のアップルの地位の確立につながったんやなぁと思った。で、それを、まったくぶれずに、強力すぎるほどの力でスティーブ・ジョブズは率いていたんやろうね。いろんなエピソードを楽しみながら読めた。ちょっとアップル褒めすぎやろう、と思わんではないけれども。
 

@@ -1,10 +1,10 @@
 ---
 created: 1780751701
-updated: 1780751701
+updated: 1780967970
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/51jA2hd7k%2BL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B074MR67VW/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51jA2hd7k%2BL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B074MR67VW/choiyaki81-22/ref=nosim)
 [『SINGLE TASK 一点集中術——「シングルタスクの原則」ですべての成果が最大になる』（デボラ・ザック）](http://www.amazon.co.jp/exec/obidos/ASIN/B074MR67VW/choiyaki81-22/ref=nosim)
 読了。
 知った内容が多いけど、それを実践するのは知ることよりも難しいわけで。一人でやることなら能率が落ちるだけで済むけど、相手がおる状況でのマルチタスクは、信用を落とすし失望もさせる。そういうときこそ、シングルタスクやな。

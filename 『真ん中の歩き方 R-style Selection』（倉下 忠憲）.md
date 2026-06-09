@@ -1,10 +1,10 @@
 ---
 created: 1780752022
-updated: 1780752022
+updated: 1780967968
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/51EO0c537CL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B00N4E5L1C/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51EO0c537CL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00N4E5L1C/choiyaki81-22/ref=nosim)
 [『真ん中の歩き方 R-style Selection』（倉下 忠憲）](http://www.amazon.co.jp/exec/obidos/ASIN/B00N4E5L1C/choiyaki81-22/ref=nosim)
 iPhoneのKindleアプリで、少しずつ読み進めて読了。
 

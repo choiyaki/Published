@@ -1,10 +1,10 @@
 ---
 created: 1780751721
-updated: 1780751721
+updated: 1780967969
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/61hZkFWn9tL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/B00TPCE66S/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/61hZkFWn9tL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00TPCE66S/choiyaki81-22/ref=nosim)
 [『Ｅｖｅｒｎｏｔｅ仕事術』（佐々木 正悟）](http://www.amazon.co.jp/exec/obidos/ASIN/B00TPCE66S/choiyaki81-22/ref=nosim)
 プロジェクトごとにスタック。この分類を、真似していこうかな、と思う。
 今ぼくは、WorkflowyとEvernoteの両方使って、タスクやアイデアを管理するのがすごくしっくりきてるけど、プロジェクトの扱いには現状多少手間取ってる。その部分に対して、多くのヒントを与えてくれた。

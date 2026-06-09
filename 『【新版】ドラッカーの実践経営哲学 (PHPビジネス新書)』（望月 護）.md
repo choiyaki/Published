@@ -1,10 +1,10 @@
 ---
 created: 1780751855
-updated: 1780751855
+updated: 1780967968
 ---
 
 
-[https://images-fe.ssl-images-amazon.com/images/I/41CtP1Vp7dL._SL160_.jpg](http://www.amazon.co.jp/exec/obidos/ASIN/4569790674/choiyaki81-22/ref=nosim)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41CtP1Vp7dL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4569790674/choiyaki81-22/ref=nosim)
 [『【新版】ドラッカーの実践経営哲学 (PHPビジネス新書)』（望月 護）](http://www.amazon.co.jp/exec/obidos/ASIN/4569790674/choiyaki81-22/ref=nosim)
 Kindleストアを散策してて購入。
 
