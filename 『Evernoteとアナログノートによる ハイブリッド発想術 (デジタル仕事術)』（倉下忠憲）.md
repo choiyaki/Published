@@ -1,6 +1,6 @@
 ---
 created: 1780751832
-updated: 1780967970
+updated: 1781046353
 ---
 
 [![](https://images-fe.ssl-images-amazon.com/images/I/41kEDq5iQ6L._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4774151505/choiyaki81-22/ref=nosim)

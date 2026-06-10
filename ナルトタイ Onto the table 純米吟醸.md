@@ -1,6 +1,6 @@
 ---
-created: 1773491458
-updated: 1773491458
+created: 1781046350
+updated: 1781046350
 ---
 
 ### ナルトタイ Onto the table 純米吟醸

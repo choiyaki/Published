@@ -1,6 +1,6 @@
 ---
-created: 1663584730
-updated: 1663584730
+created: 1781046351
+updated: 1781046351
 ---
 
 ## 信州浪漫 6HOP IPA

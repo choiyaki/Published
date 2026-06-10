@@ -1,6 +1,6 @@
 ---
-created: 1775381492
-updated: 1775381492
+created: 1781046352
+updated: 1781046352
 ---
 ### 純米吟醸 超久 CHOKYU
 ![](https://gyazo.com/6e3312f29f0c2d710477e548b5832602.jpg)

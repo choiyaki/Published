@@ -1,6 +1,6 @@
 ---
 created: 1742601898
-updated: 1780967969
+updated: 1781046353
 ---
 
 [![](https://images-na.ssl-images-amazon.com/images/I/51umAMmeSlL._SX348_BO1,204,203,200_.jpg)](http://www.amazon.co.jp/exec/obidos/asin/4576082116/choiyaki81-22)

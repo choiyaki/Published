@@ -1,6 +1,6 @@
 ---
 created: 1780841081
-updated: 1780841081
+updated: 1781046354
 ---
 
 [![](https://gyazo.com/8088de84ce750c4309e56fcdaece78d8.img)](https://amzn.to/3t7DhY0)

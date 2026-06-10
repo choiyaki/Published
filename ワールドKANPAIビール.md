@@ -1,6 +1,6 @@
 ---
-created: 1757247121
-updated: 1757247121
+created: 1781046351
+updated: 1781046351
 ---
 
 ### ワールドKANPAIビール

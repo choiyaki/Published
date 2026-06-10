@@ -1,6 +1,6 @@
 ---
-created: 1736088099
-updated: 1736088099
+created: 1781046351
+updated: 1781046351
 ---
 
 ## 彗 CHAR METEORITE 純米吟醸
