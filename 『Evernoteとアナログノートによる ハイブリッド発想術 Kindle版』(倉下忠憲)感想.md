@@ -1,9 +1,9 @@
 ---
 created: 1742601898
-updated: 1742601898
+updated: 1780967968
 ---
 
-[https://images-fe.ssl-images-amazon.com/images/I/51iRTqdvRnL.jpg](http://www.amazon.co.jp/exec/obidos/asin/B0719S13KQ/choiyaki81-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51iRTqdvRnL.jpg)](http://www.amazon.co.jp/exec/obidos/asin/B0719S13KQ/choiyaki81-22/)
 
 [Evernoteとアナログノートによる ハイブリッド発想術 Kindle版（倉下忠憲）](http://www.amazon.co.jp/exec/obidos/asin/B0719S13KQ/choiyaki81-22/)
 

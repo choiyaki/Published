@@ -1,10 +1,10 @@
 ---
 created: 1763376536
-updated: 1763376819
+updated: 1780967968
 ---
 
 『WILL POWER 意志力の科学』（ロイ・バウマイスター、ジョン・ティアニー）
-[https://images-na.ssl-images-amazon.com/images/I/41Uj4gAq0PL.SX351_BO1204203200.jpg](http://www.amazon.co.jp/exec/obidos/asin/4772695354/choiyaki81-22/)
+[![](https://images-na.ssl-images-amazon.com/images/I/41Uj4gAq0PL.SX351_BO1204203200.jpg)](http://www.amazon.co.jp/exec/obidos/asin/4772695354/choiyaki81-22/)
 [『WILL POWER 意志力の科学』（ロイ・バウマイスター、ジョン・ティアニー）](http://www.amazon.co.jp/exec/obidos/asin/4772695354/choiyaki81-22/)
 [[『いつも「時間がない」あなたに　欠乏の行動経済学 (早川書房)』（センディル ムッライナタン エルダー シャフィール）]]では、「欠乏」はトンネリングを引き起こし、トンネリングは処理能力や自制心の低下を引き起こすことを明らかにされた。
 処理能力が低下すると、あらゆることがうまくできなくなる。自制心が低下すると、自分のコントロールがきかなくなる。

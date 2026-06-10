@@ -1,9 +1,9 @@
 ---
 created: 1742601898
-updated: 1742601898
+updated: 1780967969
 ---
 
-[https://i.gyazo.com/c5863d05a72c87985e877c01f9e8686f.jpg](https://amzn.to/3lNLObg)
+[![](https://i.gyazo.com/c5863d05a72c87985e877c01f9e8686f.jpg)](https://amzn.to/3lNLObg)
 [『佐々木さん、自分の時間がないんです』（Tak.、佐々木 正悟）](https://amzn.to/3lNLObg)
 
 20210123 再読した。メモとりながら進んだので、よく理解できた。
