@@ -1,9 +1,9 @@
 ---
 created: 1780751999
-updated: 1781046354
+updated: 1781210132
 ---
 
-![](https://gyazo.com/03adac98f8fa6bdddcb7e8196c38feb8)
+![](https://gyazo.com/03adac98f8fa6bdddcb7e8196c38feb8/raw)
 [『「わかりあえない」を越える――目の前のつながりから、共に未来をつくるコミュニケーション・NVC』（マーシャル・B・ローゼンバーグ）](https://amzn.to/3DAX7SV)
 
 著者： [[マーシャル・B・ローゼンバーグ]] 
