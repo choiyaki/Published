@@ -1,6 +1,6 @@
 ---
 created: 1781046351
-updated: 1781046351
+updated: 1664612609
 ---
 
 ## 伊勢角 ISEKADO PALE ALE

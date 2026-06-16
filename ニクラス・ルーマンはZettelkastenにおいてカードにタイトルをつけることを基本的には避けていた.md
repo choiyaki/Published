@@ -1,6 +1,6 @@
 ---
 created: 1781046350
-updated: 1781046350
+updated: 1749389260
 ---
 
 3.[[Zettelkastenを理解する]]

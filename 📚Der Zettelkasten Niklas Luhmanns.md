@@ -1,6 +1,6 @@
 ---
 created: 1781046353
-updated: 1781046353
+updated: 1749313081
 ---
 
 [Der Zettelkasten Niklas Luhmanns](https://niklas-luhmann-archiv.de/nachlass/zettelkasten)を読む。

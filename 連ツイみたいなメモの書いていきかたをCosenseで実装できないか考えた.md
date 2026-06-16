@@ -1,6 +1,6 @@
 ---
 created: 1781046353
-updated: 1781046353
+updated: 1749683009
 ---
 
 [[Zettelkastenを参考にCosenseでのメモを考える]]
