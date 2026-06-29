@@ -1,6 +1,6 @@
 ---
 created: 1782473939
-updated: 1782488126
+updated: 1782488125
 ---
 - obsidianのself-hosted livesyncという同期のためのプラグインを使ってみたところからcouchdbという方式を知り、それをoracle cloudにて運用する環境を構築できた。
 - そっから、複数デバイスでメモを同期するのにoracle cloud×couchdbを使うようになり、しばらくobsidianでもlivesyncで使用。

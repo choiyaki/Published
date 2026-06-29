@@ -4,7 +4,7 @@ updated: 1761374407
 ---
 
 ### ISEKADO ウエストコーストピルスナー WEST COAST PILSNER
-![](https://gyazo.com/f17e9914362ffeb479ca7cbfd5905d11)
+![](https://gyazo.com/f17e9914362ffeb479ca7cbfd5905d11/raw)
 
 醸造所：[[伊勢角屋麦酒]]
 スタイル：[[ピルスナー]]

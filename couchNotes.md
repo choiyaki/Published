@@ -1,6 +1,6 @@
 ---
-created: 1782487943
-updated: 1782487943
+created: 1782487927
+updated: 1782487927
 ---
 ![](https://i.gyazo.com/d54e54164b7d9deddd082c89f1bdd0e4.png)
 - サーバー上のcouchdbの読み書きするノートアプリ。

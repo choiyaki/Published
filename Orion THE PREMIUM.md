@@ -14,5 +14,5 @@ updated: 1764167214
 [[🍺ビール]]
 
 20251126
-![](https://gyazo.com/dec7f447eebefb367fe9491793358538)
+![](https://gyazo.com/dec7f447eebefb367fe9491793358538/raw)
 - 風味が好みではないなー、やねやっぱり。

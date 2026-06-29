@@ -3,7 +3,7 @@ created: 1746010065
 updated: 1746011002
 ---
 
-![](https://gyazo.com/2753506345a14b7d498a45088d4b4d36)
+![](https://gyazo.com/2753506345a14b7d498a45088d4b4d36/raw)
 >•
 > 0
 > ○○
@@ -22,7 +22,7 @@ updated: 1746011002
 > システム手帳ならあるのか?
 > ようけある。
 
-![](https://gyazo.com/74023ab57383c9a8abfb63a1a3ac0fb7)
+![](https://gyazo.com/74023ab57383c9a8abfb63a1a3ac0fb7/raw)
 >封谷館の殺人. No.1
 > 西館で一発、東館で二発
 > 広瀬が犯人ということに。

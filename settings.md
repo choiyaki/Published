@@ -3,7 +3,7 @@ created: 1743233449
 updated: 1758593067
 ---
 
-![](https://gyazo.com/ddbb6900483abcb2e6c682c24374d416)
+![](https://gyazo.com/ddbb6900483abcb2e6c682c24374d416/raw)
 
 
 code:style.css
