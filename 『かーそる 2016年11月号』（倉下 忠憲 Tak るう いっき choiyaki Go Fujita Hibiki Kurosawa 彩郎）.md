@@ -1,6 +1,6 @@
 ---
 created: 1780751706
-updated: 1781046354
+updated: 1783703126
 ---
 
 
@@ -10,7 +10,7 @@ updated: 1781046354
 
 - [[『知的生産の技術 (岩波新書)』（梅棹忠夫）]]
 
-著者： [[倉下忠憲]] [[Tak]] [[るう]] [[いっき]] [[choiyaki]] [[GoFujita]] [[HibikiKurosawa]] [[彩郎]]
+著者： [[倉下忠憲]] [[Tak.]] [[るう]] [[いっき]] [[choiyaki]] [[GoFujita]] [[HibikiKurosawa]] [[彩郎]]
 出版社： [[BCCKS]]
 発行：2016
 分類：[[00総記]]

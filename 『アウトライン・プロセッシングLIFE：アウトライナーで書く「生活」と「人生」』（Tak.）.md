@@ -1,6 +1,6 @@
 ---
 created: 1782220602
-updated: 1782220602
+updated: 1783703107
 ---
 
 [![](https://images-fe.ssl-images-amazon.com/images/I/41nO1V43OIL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B07F3KN42K/choiyaki81-22/ref=nosim)
@@ -14,7 +14,7 @@ ALLやBEが立ち上がっていく様子を見てて、自分は、アウトラ
 
 [[アウトライナー]] [[タスク管理]] 
 
-著者： [[Tak]] 
+著者： [[Tak.]]
 出版社： [[KDP]] 
 発行：2018
 分類：[[15倫理学、道徳]]

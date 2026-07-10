@@ -1,6 +1,6 @@
 ---
 created: 1780751948
-updated: 1780967970
+updated: 1783703135
 ---
 
 [![](https://images-fe.ssl-images-amazon.com/images/I/51VqTKTl0WL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4774182850/choiyaki81-22/ref=nosim)
@@ -9,7 +9,7 @@ updated: 1780967970
 
 [[アウトライナー]] 
 
-著者： [[Tak]] 
+著者： [[Tak.]] 
 出版社： [[技術評論社]] 
 発行：2016
 分類：[[02図書、書誌学]]

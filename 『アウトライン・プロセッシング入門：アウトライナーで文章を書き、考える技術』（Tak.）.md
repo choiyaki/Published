@@ -1,6 +1,6 @@
 ---
 created: 1782220601
-updated: 1782220601
+updated: 1783703117
 ---
 
 [![](https://images-fe.ssl-images-amazon.com/images/I/41WikKyn%2BuL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00XCIETIG/choiyaki81-22/ref=nosim)
@@ -13,7 +13,7 @@ updated: 1782220601
 
 [[アウトライナー]] 
 
-著者： [[Tak]]
+著者： [[Tak.]]
 出版社： [[KDP]]
 発行：2015
 分類：[[00総記]]
