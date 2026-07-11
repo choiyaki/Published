@@ -1,11 +1,12 @@
 ---
 created: 1781046353
-updated: 1768254017
+updated: 1783778270
+pin: 2
 ---
 
 - [[📚book scrapbook 区分一覧]]
 
-- [[📘Selected Books（2023〜）]]
+- [[📘Selected Books(2023〜)]]
 
 2026
 - [[📙2026年読了リスト]]
