@@ -2,5 +2,5 @@
 created: 1782703976
 updated: 1782703976
 ---
-![](https://i.gyazo.com/682bbe43f680b6188194d550fef6e891.jpg)
+![](https://img.choiyaki.com/8fa9943230957116853ec9bb948aad85.jpg)
 - 
