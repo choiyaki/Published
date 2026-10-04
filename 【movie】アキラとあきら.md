@@ -4,7 +4,7 @@ updated: 1694515234
 ---
 
 ## 【movie】アキラとあきら
-![](https://gyazo.com/ca54b1949821b66c74d175270859f95e.jpg)
+![](https://img.choiyaki.com/012c1f5c182a6ba88eed82482724629c.jpg)
 
 監督：[[三木孝浩]]
 主演：[[竹内涼真]]、[[横浜流星]]

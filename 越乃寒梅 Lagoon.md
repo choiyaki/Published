@@ -4,7 +4,7 @@ updated: 1674654550
 ---
 
 ## 越乃寒梅 Lagoon
-![](https://gyazo.com/15fcdba002a01011d8a46fb32ff57830.jpg)
+![](https://img.choiyaki.com/f28b30b5536216a29272ece335e408cf.jpg)
 
 醸造所：[[石本酒造]]
 スタイル：[[純米吟醸]]

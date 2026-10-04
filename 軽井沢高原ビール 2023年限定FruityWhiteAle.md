@@ -4,7 +4,7 @@ updated: 1698141357
 ---
 
 ## 軽井沢高原ビール 2023年限定FruityWhiteAle
-![](https://gyazo.com/ff845932870845eb1edd5bb1dbd24cc6.jpg)
+![](https://img.choiyaki.com/638a873b12a639cd76515fef80768d12.jpg)
 
 醸造所：[[ヤッホーブルーイング]]
 スタイル：[[ホワイトエール]]

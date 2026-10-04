@@ -4,7 +4,7 @@ updated: 1707816128
 ---
 
 ## 小樽ビール Slow Brew
-![](https://gyazo.com/9cbe79e4480d6f02670172a6383a9a84.jpg)
+![](https://img.choiyaki.com/a38f3f15ded6e2fab8c048e5c567b5f6.jpg)
 
 醸造所：[[アレフ 小樽ビール醸造所]]
 スタイル：[[ピルスナー]]

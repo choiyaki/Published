@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## MOJIKO BEER Pale Ale
-![](https://gyazo.com/08fccb42babb20cce733e81c0ecdb254.jpg)
+![](https://img.choiyaki.com/461b26b2abacd596b7d9a86383b542f6.jpg)
 
 醸造所：[[門司港レトロビール]]
 スタイル：[[ペールエール]]

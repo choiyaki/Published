@@ -3,7 +3,7 @@ created: 1780841081
 updated: 1783702938
 ---
 
-[![](https://gyazo.com/8088de84ce750c4309e56fcdaece78d8.img)](https://amzn.to/3t7DhY0)
+[![](https://img.choiyaki.com/a2811307ef33b5edfee06aaa2a720879.png)](https://amzn.to/3t7DhY0)
 [『Re：vision タスクリストとアウトライン』（倉下忠憲 Tak.）](https://amzn.to/3t7DhY0)
 
 一気に読了。

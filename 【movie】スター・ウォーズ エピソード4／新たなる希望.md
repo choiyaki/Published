@@ -4,7 +4,7 @@ updated: 1782220801
 ---
 
 ### 【movie】スター・ウォーズ エピソード4／新たなる希望.md
-![](https://i.gyazo.com/6ca9892f9aec260e6e4e55dd77716edf.jpg)
+![](https://img.choiyaki.com/c7cc79b4be989e4c24d3256f9b8174c1.jpg)
 
 全エピソードを見ていこう、と。ディズニーで見れるので。
 壮大な話の一つとしつつも、これ自体でエンタメとして完結してる感じ。

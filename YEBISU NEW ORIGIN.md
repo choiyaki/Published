@@ -4,7 +4,7 @@ updated: 1679488248
 ---
 
 ## YEBISU NEW ORIGIN
-![](https://gyazo.com/74817ed3ed7e18366419133b342e636f.jpg)
+![](https://img.choiyaki.com/4146293c1c8000eebaba1faa95dc40b9.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

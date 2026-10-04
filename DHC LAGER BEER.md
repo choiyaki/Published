@@ -4,7 +4,7 @@ updated: 1669456845
 ---
 
 ## DHC LAGER BEER
-![](https://gyazo.com/813a07ff0531d47833af97d92188f1ea.jpg)
+![](https://img.choiyaki.com/e56946b713074f7512e7518a9781b100.jpg)
 
 醸造所：[[ディーエイチシー]]
 スタイル：[[ラガー]]

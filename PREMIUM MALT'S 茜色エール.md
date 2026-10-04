@@ -4,7 +4,7 @@ updated: 1725107560
 ---
 
 ## PREMIUM MALT'S 茜色エール
-![](https://gyazo.com/dafa26e4990fbf3c6063712d2229712e.jpg)
+![](https://img.choiyaki.com/d8ead3cb77b3ef678b564a908b5bc814.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[エールビール]]

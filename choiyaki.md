@@ -3,7 +3,7 @@ created: 1743233682
 updated: 1775481598
 ---
 
-![](https://gyazo.com/762596d99ad9cfaa53af28f944053c71/raw)
+![](https://img.choiyaki.com/88d694eba0b90e5caa73ae23b288cb87.png)
 
 code:script.js
 - 

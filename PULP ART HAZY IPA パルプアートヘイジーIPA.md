@@ -2,7 +2,7 @@
 created: 1784728224
 updated: 1784728224
 ---
-![](https://i.gyazo.com/04e8f95f9f51e77a257d1893243e47fb.jpg)
+![](https://img.choiyaki.com/9fdd5fb97e8df5466d68ee6366159118.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[HAZY IPA]]

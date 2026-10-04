@@ -4,7 +4,7 @@ updated: 1689945773
 ---
 
 ## YOKOHAMA WHEAT
-![](https://gyazo.com/ff15da6a3b5d6725cf7d10ba277ae81e.jpg)
+![](https://img.choiyaki.com/a7de62edcf4e98cd9bfc680d7c21dc30.jpg)
 
 醸造所：[[横浜ビール醸造所]]
 スタイル：[[ヴァイツェン]]

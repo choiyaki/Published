@@ -4,7 +4,7 @@ updated: 1692442948
 ---
 
 ## 信州 諏訪浪漫 BEER しらかば
-![](https://gyazo.com/71f9a8e076851d07b4c66318b467993a.jpg)
+![](https://img.choiyaki.com/e2aecdb5ef9d62ac4a056be8b3f14850.jpg)
 
 醸造所：[[麗人酒造]]
 スタイル：[[ケルシュ]]

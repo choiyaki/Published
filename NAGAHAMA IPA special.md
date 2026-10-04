@@ -4,7 +4,7 @@ updated: 1664709563
 ---
 
 ## NAGAHAMA IPA special
-![](https://gyazo.com/bd06878b8d2439dc96d0617868fda206.jpg)
+![](https://img.choiyaki.com/e5a9d7f4b895b3e8d682cf39849b48d6.jpg)
 
 醸造所：[[エチゴビール]]
 スタイル：[[IPA]]

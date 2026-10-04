@@ -3,7 +3,7 @@ created: 1780751877
 updated: 1780751877
 ---
 
-![](https://gyazo.com/59338114a47d5b651817918f14f905aa.jpg)
+![](https://img.choiyaki.com/5bc791385bc232672a1226b2440fd505.png)
 
 著者： [[しんめいP]] 
 出版社： [[サンクチュアリ出版]] 

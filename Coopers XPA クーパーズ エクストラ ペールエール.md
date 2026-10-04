@@ -4,7 +4,7 @@ updated: 1711191534
 ---
 
 ## Coopers XPA クーパーズ エクストラ ペールエール
-![](https://gyazo.com/0d550b5b03cebc3921f94a0703585a32.jpg)
+![](https://img.choiyaki.com/352232f61cecfe6308b419eab1569e84.jpg)
 
 醸造所：[[COOPERS BREWERY]]
 スタイル：[[ペールエール]]

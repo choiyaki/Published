@@ -4,7 +4,7 @@ updated: 1704032870
 ---
 
 ## BREWDOG NEON DREAM
-![](https://gyazo.com/0095999a316cacd99357c599a8eb40c1.jpg)
+![](https://img.choiyaki.com/9ab5c8bc212f8ba5bb0af3b4990f7936.jpg)
 
 醸造所：[[BREWDOG]]
 スタイル：[[ウィートエール]]

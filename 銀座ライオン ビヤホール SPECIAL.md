@@ -4,7 +4,7 @@ updated: 1761904153
 ---
 
 ## 銀座ライオン ビヤホール SPECIAL
-![](https://gyazo.com/2960670b9dc183e5d58b9a99140663cd.jpg)
+![](https://img.choiyaki.com/4ade13776de5d21c1ae96301b11f18e5.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]
@@ -14,7 +14,7 @@ updated: 1761904153
 [[🍺ビール]] 
 
 ### 銀座ライオン ビヤホール SPECIAL
-![](https://gyazo.com/2960670b9dc183e5d58b9a99140663cd.jpg)
+![](https://img.choiyaki.com/4ade13776de5d21c1ae96301b11f18e5.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]
@@ -22,7 +22,7 @@ updated: 1761904153
 ビールの旨みのあるビール、という印象。スッキリとした味わいの中に、しっかりと麦芽の風味がする。ホップはそんなにきいてない。飲み飽きないピルスナー、という感じ。苦味もほどほどで、万人受けするビールか。
 
 [[ビール]] ### 銀座ライオン ビヤホール SPECIAL
-![](https://gyazo.com/c6de913829b1818b3a319c432d1226da.jpg)
+![](https://img.choiyaki.com/f09263bcc4af019feda1aaaf176e3b95.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

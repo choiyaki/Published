@@ -4,7 +4,7 @@ updated: 1707736070
 ---
 
 ## 鎌倉ビール 武士の宴 IPA
-![](https://gyazo.com/d791de7aecef3b6287a1b654d5c4971d.jpg)
+![](https://img.choiyaki.com/1e1389faa041f8e1c221b371f8c59891.jpg)
 
 醸造所：[[ディーエイチシー]]
 スタイル：[[IPA]]

@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## Rising Sun Pale Ale
-![](https://gyazo.com/c7bf19f76d915bba11f28f8f2ee7cc8d.jpg)
+![](https://img.choiyaki.com/dbb95b9bcefe96436e7313cc917af4dc.jpg)
 
 醸造所：[[ベアードブルーイング]]
 スタイル：[[ペールエール]]

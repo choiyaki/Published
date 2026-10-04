@@ -4,7 +4,7 @@ updated: 1771678198
 ---
 
 ### あさ開 純米酒 LIVELY
-![](https://gyazo.com/5b988870967069304f8b3a305af2860c.jpg)
+![](https://img.choiyaki.com/f3a5e89a3d2c7f199cddbd259d5f52bb.jpg)
 
 醸造所：[[あさ開]]
 スタイル：[[純米酒]]

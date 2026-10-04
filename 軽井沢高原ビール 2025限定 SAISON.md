@@ -4,7 +4,7 @@ updated: 1752490015
 ---
 
 ### 軽井沢高原ビール 2025限定 SAISON
-![](https://gyazo.com/81fd09b624899c7cff7aff9c2d1c993d.jpg)
+![](https://img.choiyaki.com/efd5f99d7e7a308b6065e4a642513cda.jpg)
 
 醸造所：[[ヤッホーブルーイング]]
 スタイル：[[セゾン]]

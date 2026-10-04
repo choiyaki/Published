@@ -4,7 +4,7 @@ updated: 1673129736
 ---
 
 ## 【movie】ブレット・トレイン
-![](https://gyazo.com/77252eac4a9a35c4228552b6fa364d85.jpg)
+![](https://img.choiyaki.com/4547cb4b42c7d3e8f9b747eb0221854e.jpg)
 
 監督：[[デヴィッド・リーチ]]
 主演：[[ブラッド・ピット]]

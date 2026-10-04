@@ -4,7 +4,7 @@ updated: 1743285409
 ---
 
 ## 【movie】ミニオンズ フィーバー
-![](https://gyazo.com/ec287ffc44f13105b971746c393f0e65.jpg)
+![](https://img.choiyaki.com/b71317366ddc25194bad17ca947f06ba.jpg)
 
 監督：[[カイル・バルダ]]
 主演：[[笑福亭鶴瓶]]

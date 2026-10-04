@@ -4,7 +4,7 @@ updated: 1745408236
 ---
 
 ### MOON RABBIT SESSION HAZY IPA
-![](https://gyazo.com/6fb48075e994131f03bba87234cd0c08.jpg)
+![](https://img.choiyaki.com/9e4f4e322ec22c98723f8e6fa67cc3aa.jpg)
 
 醸造所：[[二兎醸造]]
 スタイル：[[HAZY IPA]]

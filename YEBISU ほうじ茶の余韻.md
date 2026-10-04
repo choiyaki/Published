@@ -4,7 +4,7 @@ updated: 1755266709
 ---
 
 ### YEBISU ほうじ茶の余韻
-![](https://gyazo.com/b7d8dd8a114da32a4192f279dc0812ac.jpg)
+![](https://img.choiyaki.com/68af10d9dc43425c1b4259a6d6f1f6f6.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

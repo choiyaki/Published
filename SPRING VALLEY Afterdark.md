@@ -4,7 +4,7 @@ updated: 1707568281
 ---
 
 ## SPRING VALLEY Afterdark
-![](https://gyazo.com/829d8e93aa3bbabf99494f218ac33936.jpg)
+![](https://img.choiyaki.com/aecd8f4df8f96aaccbc0f2fd0ef5bc9d.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[スタウト]]

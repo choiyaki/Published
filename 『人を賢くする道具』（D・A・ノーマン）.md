@@ -3,7 +3,7 @@ created: 1780751630
 updated: 1780751630
 ---
 
-![](https://gyazo.com/b262ee1b886699edaebeaaaafbfbfb23.jpg)
+![](https://img.choiyaki.com/047d999fcc2a0db0580069388d96ecda.jpg)
 [『人を賢くする道具』（D・A・ノーマン）](https://amzn.to/44pMgDY)
 
 著者： [[D・A・ノーマン]] 

@@ -4,7 +4,7 @@ updated: 1665241218
 ---
 
 ## HOPPING ゆずふわIPA
-![](https://gyazo.com/989905de7cfe1324df5ac29d74453465.jpg)
+![](https://img.choiyaki.com/242f7a429235558118d1cadf62c47ae6.jpg)
 
 醸造所：[[三菱食品]]
 スタイル：[[IPA]]

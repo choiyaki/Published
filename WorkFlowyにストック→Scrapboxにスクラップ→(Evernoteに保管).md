@@ -4,7 +4,7 @@ updated: 1742601898
 ---
 
 WorkFlowyにメモを書き溜めていた頃は、まずWorkflowyでメモを捉えて、それをいくつかまとめてEvernoteにスクラップする、というのがいいと思ってた。
-![](https://gyazo.com/f4634d6c9f7a64fbe17d6e4bd81a4692.img)
+![](https://img.choiyaki.com/409bbf4d49fa9b5e43dbb70481b0ed59.jpg)
 
 が、Scrapboxに出会ったので、Evernoteではなく、Scrapboxがスクラップ先としては適しているかな、と思う。
 [[Evernoteには、とにかくログ]]の方が、機能としての棲み分けがスッキリするので。

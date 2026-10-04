@@ -4,7 +4,7 @@ updated: 1694516093
 ---
 
 ## 【movie】オリエント急行殺人事件
-![](https://gyazo.com/6038632e466881691d4cf06d834600fa.jpg)
+![](https://img.choiyaki.com/9d29b6771862ce32bf73ca0f893dd7dd.jpg)
 
 監督：[[ケネス・ブラナー]]
 主演：[[ケネス・ブラナー]]

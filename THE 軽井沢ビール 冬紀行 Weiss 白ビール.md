@@ -3,7 +3,7 @@ created: 1777894662
 updated: 1777894662
 ---
 ### THE 軽井沢ビール 冬紀行 Weiss 白ビール
-![](https://gyazo.com/a6d0a2e91b4e649151d69bd6718426ab.jpg)
+![](https://img.choiyaki.com/c8ae99725a77d474f4191c40ee34510d.jpg)
 
 醸造所：[[軽井沢ブルワリー]]
 スタイル：[[ヴァイツェン]]

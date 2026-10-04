@@ -3,7 +3,7 @@ created: 1781046352
 updated: 1775381492
 ---
 ### 純米吟醸 超久 CHOKYU
-![](https://gyazo.com/6e3312f29f0c2d710477e548b5832602.jpg)
+![](https://img.choiyaki.com/fa0cc250cc499ca2f1c4515d0f0eafbd.jpg)
 
 醸造所：[[中野BC]]
 スタイル：[[純米吟醸]]

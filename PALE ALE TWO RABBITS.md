@@ -4,7 +4,7 @@ updated: 1745678884
 ---
 
 ### PALE ALE TWO RABBITS
-![](https://gyazo.com/082101a53dca7ae8769d396aca941f84.jpg)
+![](https://img.choiyaki.com/704884157b9168c5b3c276e958eac55b.jpg)
 
 醸造所：[[二兎醸造]]
 スタイル：[[ペールエール]]

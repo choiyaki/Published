@@ -4,7 +4,7 @@ updated: 1780398450
 ---
 
 ### EGA BEER
-![](https://gyazo.com/8f7f6724ddf89b7527e833f85d1f847a.jpg)
+![](https://img.choiyaki.com/fed35005b89211f65be7015c2c1149a2.jpg)
 
 醸造所：[[アサヒビール]]
 スタイル：[[ピルスナー]]

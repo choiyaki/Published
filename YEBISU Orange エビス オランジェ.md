@@ -4,7 +4,7 @@ updated: 1698242881
 ---
 
 ## YEBISU Orange エビス オランジェ
-![](https://gyazo.com/2dbd497b97947fe1cdb466f61c17f0b9.jpg)
+![](https://img.choiyaki.com/4e67dbeb92e58f7b80edc7a41e84d33c.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

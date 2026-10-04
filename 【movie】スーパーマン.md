@@ -4,7 +4,7 @@ updated: 1757344119
 ---
 
 ### 【movie】スーパーマン
-![](https://gyazo.com/28952f087311e57e186ef849e87ffcba.jpg)
+![](https://img.choiyaki.com/219ed887e663bae19d9ad9a42e4962d1.jpg)
 
 監督：[[ジェームズ・ガン]]
 主演：[[デビッド・コレンスウェット]]

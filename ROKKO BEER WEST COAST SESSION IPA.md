@@ -4,7 +4,7 @@ updated: 1689852642
 ---
 
 ## ROKKO BEER WEST COAST SESSION IPA
-![](https://gyazo.com/ac4674a324f706dc908b92ad566f623e.jpg)
+![](https://img.choiyaki.com/fc46ccbd2370078cc2605e39e6c16baa.jpg)
 
 醸造所：[[アイエヌインターナショナル]]
 スタイル：[[IPA]]

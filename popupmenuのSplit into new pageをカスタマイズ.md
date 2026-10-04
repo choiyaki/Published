@@ -9,9 +9,9 @@ updated: 1766318077
 - で、文字を選択した時に「Split into new page」がpopupに表示されないように消した。
   - いつの間にか個別にページを切り出すボタンが「Split into new page」という名前になったんでしょう。
 
-![](https://gyazo.com/96756ccb905ef1c8ea414ccc528634b4/raw)
+![](https://img.choiyaki.com/9890c2fa5eed87216ee4a11eb2c9e7ff.png)
 ↓↓↓
-![](https://gyazo.com/7d58de80ee7f86161173203755820568/raw)
+![](https://img.choiyaki.com/871369c33d83e6e5dfcddb990681b4a2.png)
 
 
 code:script.js

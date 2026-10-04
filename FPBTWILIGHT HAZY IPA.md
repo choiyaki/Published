@@ -2,7 +2,7 @@
 created: 1786543936
 updated: 1786543937
 ---
-![](https://i.gyazo.com/7840b638027a8bd728745fffc5fecfc2.jpg)
+![](https://img.choiyaki.com/a0d5f4dd89868c9cfe72992381eaf558.jpg)
 
 醸造所：[[FUJI PREMIUM BREWING]]
 スタイル：[[HAZY IPA]]

@@ -2,7 +2,7 @@
 created: 1782546255
 updated: 1782546255
 ---
-![](https://i.gyazo.com/c60b66ad2665ffd6f187a81c0c46dab7.png)
+![](https://img.choiyaki.com/e90820f08fe547cab8c7b5310d140929.png)
 - couchdb上の指定のフォルダのノートを読み込み、スライド表示するアプリ。
 - 独自記法により、in・outのアニメーションの設定や文字サイズの変更、右寄せや中央などに対応。
 - Tex記法により数式も表示できる。

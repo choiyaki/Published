@@ -4,7 +4,7 @@ updated: 1774098932
 ---
 
 ### 有馬麦酒 JAPAN ALE
-![](https://gyazo.com/aaa1258825696814068d152a3cc2e3c5.jpg)
+![](https://img.choiyaki.com/0bb79e146b79eabce4a11e5bbab3879a.jpg)
 
 醸造所：[[小西酒造]]
 スタイル：[[ペールエール]]

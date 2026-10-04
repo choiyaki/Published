@@ -4,7 +4,7 @@ updated: 1752327348
 ---
 
 ### 青い空と海のビール Weizen
-![](https://gyazo.com/760140dc79cfeb9ac32c1cfcda47ee7e.jpg)
+![](https://img.choiyaki.com/bcdff51547f3aa391505a1725adbf79f.jpg)
 
 醸造所：[[ヘリオスブルワリー]]
 スタイル：[[ヴァイツェン]]

@@ -4,7 +4,7 @@ updated: 1706958327
 ---
 
 ## Leff レフ・ブロンド
-![](https://gyazo.com/b1e04d82ed1a54c87a848c98ac86d9bf.jpg)
+![](https://img.choiyaki.com/2837f59cb65bcb1e9cf629b41a0f4493.jpg)
 
 醸造所：[[アンハイザーブッシュインベブジャパン]]
 スタイル：[[エールビール]]

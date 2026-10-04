@@ -3,7 +3,7 @@ created: 1780751860
 updated: 1784336704
 ---
 
-![](https://gyazo.com/307763a5d37c39e298c83e0eac34fc89.jpg)
+![](https://img.choiyaki.com/32ed92b4e47150256d291e03b2f7b3ed.jpg)
 [『善と悪の生物学（上） 何がヒトを動かしているのか』（ロバート・M・サポルスキー）](https://amzn.to/4142NwR)
 
 著者： [[ロバート・M・サポルスキー]] 

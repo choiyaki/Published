@@ -3,7 +3,7 @@ created: 1777127794
 updated: 1777812695
 ---
 ### Asahi GOLD アサヒゴールド
-![](https://gyazo.com/4b25a0b0461dc3f7fbd8b9a9da58f5eb.jpg)
+![](https://img.choiyaki.com/16bb51c9bdf7c371a8586bb993ad3724.jpg)
 
 醸造所：[[アサヒビール]]
 スタイル：[[ピルスナー]]

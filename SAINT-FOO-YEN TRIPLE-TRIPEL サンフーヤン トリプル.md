@@ -4,7 +4,7 @@ updated: 1738235961
 ---
 
 ## SAINT-FOO-YEN TRIPLE-TRIPEL サンフーヤン トリプル
-![](https://gyazo.com/0b3cd7f56dd06b5d3e1422fc79d7a239.jpg)
+![](https://img.choiyaki.com/738b06e20c03a38e6e96523ed6225f27.jpg)
 
 醸造所：[[コルドンヴェール]]
 スタイル：[[ペールエール]]

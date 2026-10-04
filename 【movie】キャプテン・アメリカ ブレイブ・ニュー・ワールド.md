@@ -4,7 +4,7 @@ updated: 1748447567
 ---
 
 ### 【movie】キャプテン・アメリカ ブレイブ・ニュー・ワールド
-![](https://gyazo.com/9b3faafecd38a3596c64b153f01a856f.jpg)
+![](https://img.choiyaki.com/49d70453c30c5fbe133ce5209b105fdd.jpg)
 
 監督：[[ジュリアス・オナー]]
 主演：[[アンソニー・マッキー]]

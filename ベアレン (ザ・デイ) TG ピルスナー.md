@@ -4,7 +4,7 @@ updated: 1752160304
 ---
 
 ### ベアレン (ザ・デイ) TG ピルスナー
-![](https://gyazo.com/350eece36e77c654272a96c753566ab4.jpg)
+![](https://img.choiyaki.com/3056f2acb8a1a48959eb8f58b7d6d274.jpg)
 
 醸造所：[[ベアレン醸造所]]
 スタイル：[[ピルスナー]]

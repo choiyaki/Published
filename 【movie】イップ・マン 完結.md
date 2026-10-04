@@ -5,7 +5,7 @@ updated: 1609171157
 
 #### 【イップ・マン 完結】
 
-![](https://i.gyazo.com/c9ab58cbd5ce933412c903ba54ccee7a.jpg)
+![](https://img.choiyaki.com/a221794369d34d5f44c0c4f950ad4e2c.jpg)
 
 うん、良かったね。
 格闘アクションはどれも見もの。でもやはり、最後のイップマンの戦いが一番良かったなぁ。

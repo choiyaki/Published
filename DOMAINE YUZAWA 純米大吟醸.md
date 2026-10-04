@@ -3,7 +3,7 @@ created: 1777820213
 updated: 1777820213
 ---
 ### DOMAINE YUZAWA 純米大吟醸
-![](https://gyazo.com/a8225d2f9a1a7ce938b781d10e712e30.jpg)
+![](https://img.choiyaki.com/9039546d7b07bff205cf4b6e45570f1f.jpg)
 
 醸造所：[[秋田銘醸]]
 スタイル：[[純米大吟醸]]

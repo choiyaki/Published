@@ -4,7 +4,7 @@ updated: 1782220793
 ---
 
 ## 【movie】アントマン&ワスプ：クアントマニア
-![](https://gyazo.com/23132b2e8b9147476f061ee7758b78db.jpg)
+![](https://img.choiyaki.com/9feb29ea78a09358446139f29cf080b5.jpg)
 
 監督：[[ペイトン・リード]]
 主演：[[ポール・ラッド]]

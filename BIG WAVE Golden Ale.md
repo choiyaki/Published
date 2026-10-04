@@ -4,7 +4,7 @@ updated: 1755776451
 ---
 
 ## BIG WAVE Golden Ale
-![](https://gyazo.com/e85e29c95992d6abd259f45177149e34.jpg)
+![](https://img.choiyaki.com/e1f1e7b167f6475a9c5841913aa79f3a.jpg)
 
 醸造所：[[友和貿易]]
 スタイル：[[ゴールデンエール]]
@@ -14,5 +14,5 @@ updated: 1755776451
 [[🍺ビール]]
 
 20250821
-![](https://gyazo.com/9644684e75e77d85046a243525b0c0d5/raw)
+![](https://img.choiyaki.com/d72575a92fa70bc92103d822ff9e932d.jpg)
 再飲。ゴクゴクいけるビール、ゴクゴクいきたいビールやけど、高いのが、ね。

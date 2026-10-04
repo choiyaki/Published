@@ -4,7 +4,7 @@ updated: 1663550314
 ---
 
 ## DRAGONEYE SKY
-![](https://gyazo.com/979843dec385fc7a6e0694914aedd5cc.jpg)
+![](https://img.choiyaki.com/d59a6e11aae16a38c42d7ea3861eaf4b.jpg)
 
 醸造所：[[暁ブルワリー]]
 スタイル：[[ピルスナー]]

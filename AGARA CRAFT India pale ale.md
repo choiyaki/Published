@@ -4,7 +4,7 @@ updated: 1762602617
 ---
 
 ### AGARA CRAFT India pale ale
-![](https://gyazo.com/bbda277bf65544b4f3af955ec1032d48.jpg)
+![](https://img.choiyaki.com/be1ec084b385053857b7747b6ca6a658.jpg)
 
 醸造所：[[株式会社吉田]]
 スタイル：[[IPA]]

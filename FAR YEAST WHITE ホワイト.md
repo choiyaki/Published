@@ -4,7 +4,7 @@ updated: 1756031982
 ---
 
 ### FAR YEAST WHITE ホワイト
-![](https://gyazo.com/ac36936d1520a5eb02b8310741f65a84.jpg)
+![](https://img.choiyaki.com/5e2d92d839ee6213fd977dd05cb4bd47.jpg)
 
 醸造所：[[ファーイーストブルーイング]]
 スタイル：[[セゾン]]

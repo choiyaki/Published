@@ -4,7 +4,7 @@ updated: 1693576638
 ---
 
 ## TERRA
-![](https://gyazo.com/ecd4cb79686ffdb8184265c49a242a9a.jpg)
+![](https://img.choiyaki.com/255f31e82bee70f0dc8ae2aa0eccdc76.jpg)
 
 醸造所：[[眞露株式会社]]
 スタイル：[[ピルスナー]]

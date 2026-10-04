@@ -4,7 +4,7 @@ updated: 1694517949
 ---
 
 ## 【movie】バスカヴィル家の犬シャーロック劇場版
-![](https://gyazo.com/451527466173c645e1605fad2eb58e13.jpg)
+![](https://img.choiyaki.com/c4b285ed8d7f59a097e7bb69785093ac.jpg)
 
 監督：[[西谷弘]]
 主演：[[ディーン・フジオカ]]

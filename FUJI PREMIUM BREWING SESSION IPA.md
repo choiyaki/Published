@@ -4,7 +4,7 @@ updated: 1784626554
 ---
 
 ### FUJI PREMIUM BREWING SESSION IPA
-![](https://gyazo.com/5ea0bb5fef208f8a26ca1a5a58697723.jpg)
+![](https://img.choiyaki.com/7869d71a84469756b378fcc721fde2ac.jpg)
 
 醸造所：[[FUJI PREMIUM BREWING]]
 スタイル：[[セッションIPA]]

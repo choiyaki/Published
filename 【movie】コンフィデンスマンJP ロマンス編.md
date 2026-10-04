@@ -4,7 +4,7 @@ updated: 1608204256
 ---
 
 #### 【movie】コンフィデンスマンJP ロマンス編
-![](https://i.gyazo.com/e00b99e0cda57398c19eba4fe94deba2.jpg)
+![](https://img.choiyaki.com/496cd6c819ee54412cdb7d768b8eb6f0.jpg)
 
 コンゲーム、おもしろいよねー。
 どんでん返し、わざと予想できるようにしてる感があった。が、まさか一番初めから騙してたんかいって意外性かなぁ。

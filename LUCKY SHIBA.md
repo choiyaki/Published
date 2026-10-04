@@ -4,7 +4,7 @@ updated: 1765443030
 ---
 
 ### LUCKY SHIBA
-![](https://gyazo.com/d8b672522f5c2eb7940d41f51a545dc7.jpg)
+![](https://img.choiyaki.com/bb86dcc578f3da8f311e3f91059ce94d.jpg)
 
 醸造所：[[黄桜]]
 スタイル：[[セッションIPA]]

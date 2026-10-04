@@ -2,7 +2,7 @@
 created: 1786356743
 updated: 1786356743
 ---
-![](https://i.gyazo.com/6ecd16317530c878ce0f0ae03ee77721.jpg)
+![](https://img.choiyaki.com/55358a587595e0cb30d19149a29c42eb.jpg)
 
 醸造所：[[合同会社深山東吉野]]
 スタイル：[[IPA]]

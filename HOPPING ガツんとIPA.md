@@ -4,7 +4,7 @@ updated: 1653998329
 ---
 
 ## HOPPING ガツんとIPA
-![](https://gyazo.com/1e9107d8bc8cf2e2fef51b4016ab0204.jpg)
+![](https://img.choiyaki.com/45c0b95da5153b726b3e1edd68ed1db6.jpg)
 
 醸造所：[[三菱食品]]
 スタイル：[[IPA]]

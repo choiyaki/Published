@@ -3,7 +3,7 @@ created: 1647603556
 updated: 1647603840
 ---
 
-![](https://gyazo.com/97db2ed2d727bd777d4d8386eac65bec.jpg)
+![](https://img.choiyaki.com/733854a866b255d312960b30e9f12bb1.jpg)
 
 香りほのーかに、苦い後口なIPA。
 スコットランドのビールらしい。苦味もそこまでではないから、比較的飲みやすい、と言えるかも。

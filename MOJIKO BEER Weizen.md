@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## MOJIKO BEER Weizen
-![](https://gyazo.com/cf04dd783324f5479081417e8fb8dd55.jpg)
+![](https://img.choiyaki.com/918d8cefb656da2be4e4043ba6da7f79.jpg)
 
 醸造所：[[門司港レトロビール]]
 スタイル：[[ヴァイツェン]]

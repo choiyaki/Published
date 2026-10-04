@@ -4,7 +4,7 @@ updated: 1759749990
 ---
 
 ### SAPPORO EXTRA THINK エクストラシンク
-![](https://gyazo.com/4acfa83eb6c3b94d25b758e60d4fefbb.jpg)
+![](https://img.choiyaki.com/15ced3519b64393051f743825b431ec3.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

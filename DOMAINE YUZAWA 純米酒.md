@@ -4,7 +4,7 @@ updated: 1779541374
 ---
 
 ### DOMAINE YUZAWA 純米酒
-![](https://gyazo.com/33cd104e4086b5a919919aa33526974a.jpg)
+![](https://img.choiyaki.com/12a8ab71f42d02867fb0990ef474f5c9.jpg)
 
 醸造所：[[秋田銘醸]]
 スタイル：[[純米酒]]

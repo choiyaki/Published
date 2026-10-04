@@ -4,7 +4,7 @@ updated: 1755777610
 ---
 
 ### FAR YEAST BLONDE ブロンド
-![](https://gyazo.com/2532399e3ae17f790ef75a5c86bba1a3.jpg)
+![](https://img.choiyaki.com/91bebbc885777cf14eeffb7ae43cee08.jpg)
 
 醸造所：[[ファーイーストブルーイング]]
 スタイル：[[ゴールデンエール]]

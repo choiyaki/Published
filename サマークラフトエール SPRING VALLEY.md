@@ -4,7 +4,7 @@ updated: 1722651392
 ---
 
 ## サマークラフトエール SPRING VALLEY
-![](https://gyazo.com/834650fb414116c43f5c4ee81e931d5d.jpg)
+![](https://img.choiyaki.com/75926f705412a1fd16ab7045806aaa8b.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[セッション]]

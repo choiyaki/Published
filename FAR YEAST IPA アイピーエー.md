@@ -4,7 +4,7 @@ updated: 1755863555
 ---
 
 ### FAR YEAST IPA アイピーエー
-![](https://gyazo.com/ba4d1aefaa9ce9486d244dc79020d182.jpg)
+![](https://img.choiyaki.com/daf5c3d765db9fcedcccd1a3117c0a50.jpg)
 
 醸造所：[[ファーイーストブルーイング]]
 スタイル：[[IPA]]

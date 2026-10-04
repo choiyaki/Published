@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## ASOBI PALE ALE
-![](https://gyazo.com/c448962ee34f26ec3eef6a40c3f49b17.jpg)
+![](https://img.choiyaki.com/06ef2061e9db5abcb0600f789ffcaa21.jpg)
 
 醸造所：[[ディーエイチシー]]
 スタイル：[[ペールエール]]

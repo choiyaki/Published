@@ -4,7 +4,7 @@ updated: 1759836378
 ---
 
 ### 倉吉 KURAYOSHI 鳥取のクラフトビール
-![](https://gyazo.com/1230f25d1c1d1dc850c01b45cd18afcf/raw)
+![](https://img.choiyaki.com/840b94b2fda97b743ccfb141e416f121.jpg)
 
 醸造所：[[松井酒造]]
 スタイル：[[ピルスナー]]

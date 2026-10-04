@@ -2,7 +2,7 @@
 created: 1786615024
 updated: 1786615038
 ---
-![](https://i.gyazo.com/bfcde6f4772641a9c4bef0b4033e8bc0.jpg)
+![](https://img.choiyaki.com/abc0be2ba8f5682acbbc9e4408723087.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[エールビール]]

@@ -2,7 +2,7 @@
 created: 1783594136
 updated: 1783692410
 ---
-![](https://i.gyazo.com/49c0ed1c1f28769c8d89aca2dd0bb868.jpg)
+![](https://img.choiyaki.com/401601a4d111de4246480f1771fa61c4.jpg)
 
 醸造所：[[アイコン・ユーロパブ]]
 スタイル：[[ラガー]]

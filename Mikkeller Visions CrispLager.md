@@ -4,7 +4,7 @@ updated: 1669987509
 ---
 
 ## Mikkeller Visions CrispLager
-![](https://gyazo.com/f72e94f856b65551357bbc7c86be1f44.jpg)
+![](https://img.choiyaki.com/1422e3f1fa93fd6a6c5f962c5b918f22.jpg)
 
 醸造所：[[Mikkeller]]
 スタイル：[[ラガー]]

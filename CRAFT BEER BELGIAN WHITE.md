@@ -4,7 +4,7 @@ updated: 1738580340
 ---
 
 ## CRAFT BEER BELGIAN WHITE
-![](https://gyazo.com/e2078340c69a31b93b75b17423224527.jpg)
+![](https://img.choiyaki.com/8883da1f151b618bff1f4adc0174d3e2.jpg)
 
 醸造所：[[キャメル珈琲]]
 スタイル：[[ヴァイツェン]]

@@ -3,7 +3,7 @@ created: 1642908567
 updated: 1642909817
 ---
 
-![](https://gyazo.com/660cc49a29db1baf3beeeeeb2cb172cb.jpg)
+![](https://img.choiyaki.com/794d5eda94c2c69b9ffa753a08534d3f.jpg)
 
 シメイブルーの方が濃厚な印象やね。甘みがあり、コクがあり、後口が少し香ばしいというか、アンバーな香りのような。コクがあるのがいいね。ただ、ブルーのほうが好きかな。
 

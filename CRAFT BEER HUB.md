@@ -4,7 +4,7 @@ updated: 1755004062
 ---
 
 ### CRAFT BEER HUB
-![](https://gyazo.com/39a6d079d2ba9a57cad98c33331d8d47.jpg)
+![](https://img.choiyaki.com/e9552cdc7e17d953102c499bb45b87ca.jpg)
 
 醸造所：[[黄桜]]
 スタイル：[[ペールエール]]

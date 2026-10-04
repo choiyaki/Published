@@ -4,7 +4,7 @@ updated: 1706887153
 ---
 
 ## DUCK DUCK GOOSE SESSION IPA
-![](https://gyazo.com/4437226ff0e456d88cdf286fe2e88dd2.jpg)
+![](https://img.choiyaki.com/6f75f8b20e2510f47c1762704bfbafe6.jpg)
 
 醸造所：[[エービーインベブジャパン]]
 スタイル：[[IPA]]

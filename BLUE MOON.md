@@ -2,7 +2,7 @@
 created: 1783342894
 updated: 1783692869
 ---
-![](https://i.gyazo.com/7bc2adfedc67d3591605ebf0cf80c3b5.jpg)
+![](https://img.choiyaki.com/ca199455f5137bea7e9ae1df4920535b.jpg)
 
 醸造所：[[白鶴酒造]]
 スタイル：[[ホワイトエール]]

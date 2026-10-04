@@ -3,7 +3,7 @@ created: 1642908548
 updated: 1642909470
 ---
 
-![](https://gyazo.com/1746039f7ed2e05c043296bde68703ed.jpg)
+![](https://img.choiyaki.com/b6a16c2f1180de1fb3da94a22f885600.jpg)
 
 果汁入ってるだけあって、ジューシー。口に入れる前の香りは、ラガーっぽくビールという感じで、口に入れるとかなり果汁を感じるビール。
 

@@ -4,7 +4,7 @@ updated: 1741700297
 ---
 
 ## サッポロ生ビール 黒ラベル エクストラムーブ EXTRA MOVE
-![](https://gyazo.com/4cd04c6203105a97beefafab580409d7.jpg)
+![](https://img.choiyaki.com/d0d3dd67f5f3cf4da007375b5513302b.jpg)
 
 醸造所：[[サッポロ]]
 スタイル：[[ピルスナー]]

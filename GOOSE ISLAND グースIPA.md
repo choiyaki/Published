@@ -5,12 +5,12 @@ updated: 1642909251
 
 #### GOOSE ISLAND グースIPA
 
-![](https://i.gyazo.com/80c79bae64e4d4a1cef03cf1cd87fce8.jpg)
+![](https://img.choiyaki.com/486ec174a66bc4ddc17f9e5ed8b5e819.jpg)
 
 おいしいね。生のIPAは素晴らしいと感じます。
 時々見かけるけど、買ったことなかったIPA。今回飲めて嬉しいな。
 
-![](https://i.gyazo.com/6f19c062329df3c63a526239201610a2.jpg)
+![](https://img.choiyaki.com/a06474f7e3bfc459eb7c6a1ded83125f.jpg)
 
 2022/01/22 ビンのものを飲み飲み。
 口に入れる前の香りがラガーっぽく、飲んだ時の香りはホップがまずまず効いててラガーIPAという印象。ちょっとクセがあるから、好みは分かれそう。

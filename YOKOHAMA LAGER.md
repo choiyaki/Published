@@ -4,7 +4,7 @@ updated: 1689945843
 ---
 
 ## YKOHAMA LAGER
-![](https://gyazo.com/24603fcdb71a1ad70d847d6caccbd20a.jpg)
+![](https://img.choiyaki.com/428ee337d0d836df9738c7683b861de4.jpg)
 
 醸造所：[[横浜ビール醸造所]]
 スタイル：[[IPL]]

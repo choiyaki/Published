@@ -4,7 +4,7 @@ updated: 1757074807
 ---
 
 ### WITH BEER WhiteAle SAPPORO
-![](https://gyazo.com/543ec76a5eae6297eb93e40846d72fcf.jpg)
+![](https://img.choiyaki.com/ef5af505ef06bf3922639badef7fa0e3.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ホワイトエール]]

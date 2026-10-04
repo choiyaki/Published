@@ -4,7 +4,7 @@ updated: 1703929741
 ---
 
 ## BREWDOG DEAD PONY CLUB
-![](https://gyazo.com/09a78c5c0bed532370301b6ed2271248.jpg)
+![](https://img.choiyaki.com/e3763b881485546b25e540cca160b170.jpg)
 
 醸造所：[[BREWDOG]]
 スタイル：[[SESSION IPA]]

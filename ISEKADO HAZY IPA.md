@@ -2,7 +2,7 @@
 created: 1786441688
 updated: 1786441688
 ---
-![](https://i.gyazo.com/ed23a5dc986f5a840a61e1ced5ef05e0.jpg)
+![](https://img.choiyaki.com/2578971a8ca7a9cb669f78b91ffe0468.jpg)
 
 醸造所：[[伊勢角屋麦酒]]
 スタイル：[[HAZY IPA]]

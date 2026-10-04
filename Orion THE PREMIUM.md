@@ -4,7 +4,7 @@ updated: 1764167214
 ---
 
 ## Orion THE PREMIUM
-![](https://gyazo.com/b0e7deb5f668c56133871a9efc647f10.jpg)
+![](https://img.choiyaki.com/1fb8355cd63e11f6e70508da70101d39.jpg)
 
 醸造所：[[オリオンビール]]
 スタイル：[[ピルスナー]]
@@ -14,5 +14,5 @@ updated: 1764167214
 [[🍺ビール]]
 
 20251126
-![](https://gyazo.com/dec7f447eebefb367fe9491793358538/raw)
+![](https://img.choiyaki.com/9a20c6d03badd35437ac98ae6cc9f135.jpg)
 - 風味が好みではないなー、やねやっぱり。

@@ -4,7 +4,7 @@ updated: 1758723048
 ---
 
 ### Duvel 666
-![](https://gyazo.com/abbd7e793a4cf880033bc840850b77b6.jpg)
+![](https://img.choiyaki.com/79fc3ac1a0b7187b3b38038bf54d54b3.jpg)
 
 醸造所：[[小西酒造]]
 スタイル：[[エールビール]]

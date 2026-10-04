@@ -4,7 +4,7 @@ updated: 1692084581
 ---
 
 ## 【movie】インサイド・ヘッド
-![](https://gyazo.com/5c49d33119ec917309e22b32ed50d05d.jpg)
+![](https://img.choiyaki.com/fc38636d69999e48ca70a92bdb644c15.jpg)
 
 監督：[[ピート・ドクター]]
 主演：[[竹内結子]]

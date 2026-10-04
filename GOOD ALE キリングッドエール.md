@@ -4,7 +4,7 @@ updated: 1760435019
 ---
 
 ### GOOD ALE キリングッドエール
-![](https://gyazo.com/5957ab0b250e455ef3e911e624a6c006.jpg)
+![](https://img.choiyaki.com/0e3ad53f380a44cbeac43e45dd7a31c5.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[エールビール]]

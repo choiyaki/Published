@@ -4,7 +4,7 @@ updated: 1734175124
 ---
 
 ## WITH BEER AmberAle ウィズビア アンバーエール
-![](https://gyazo.com/ac381bf21f3df2f0b7f5fcc354de0a19.jpg)
+![](https://img.choiyaki.com/36c2f66b6dc4eb10ba0420f94869e5c8.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[アンバーエール]]

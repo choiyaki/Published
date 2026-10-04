@@ -4,7 +4,7 @@ updated: 1608204310
 ---
 
 #### 【ジャッジ！】
-![](https://i.gyazo.com/28cc97c16e2b93b4e3e4f271a4f2dbd4.jpg)
+![](https://img.choiyaki.com/edb89ab8f24ebc6f58ad5afe095cc4a6.jpg)
 
 いいね、おもしろかった。笑わせてもらいました。
 最後の終わり方も良かったなぁ。

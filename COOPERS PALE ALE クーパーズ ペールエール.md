@@ -4,7 +4,7 @@ updated: 1711540139
 ---
 
 ## COOPERS PALE ALE クーパーズ ペールエール
-![](https://gyazo.com/a639dd98683216869be695aa85ba2b9d.jpg)
+![](https://img.choiyaki.com/0171e99ab133808cd9f36a68270e08c6.jpg)
 
 醸造所：[[COOPERS BREWERY]]
 スタイル：[[ペールエール]]

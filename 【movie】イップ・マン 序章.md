@@ -4,7 +4,7 @@ updated: 1608916933
 ---
 
 #### 【イップ・マン 序章】
-![](https://i.gyazo.com/d1e3da4f5225db4b1dcbfff5d8dfcb43.jpg)
+![](https://img.choiyaki.com/bdf73806de70814cc72b051f393ad690.jpg)
 
 カンフーの達人、いいね。
 占領してた日本軍がコテンパンにやられる。特に危ないところなく、圧倒。それがいいよね。無双なところが。

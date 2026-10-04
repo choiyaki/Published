@@ -4,7 +4,7 @@ updated: 1657888604
 ---
 
 ## TOKYO CRAFT 爽やかI.P.A
-![](https://gyazo.com/49ccefe393f6d0e92adb682858b3187a.jpg)
+![](https://img.choiyaki.com/69aa5b5272a14b4b669c08cc82eb8b05.jpg)
 
 醸造所：[[サントリービール]]
 スタイル：[[IPA]]

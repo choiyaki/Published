@@ -4,7 +4,7 @@ updated: 1782220796
 ---
 
 ## 【movie】ガーディアンズ・オブ・ギャラクシー：VOLUME 3
-![](https://gyazo.com/629417c51332ad6e6dfc5c0313428da6.jpg)
+![](https://img.choiyaki.com/6277e569a38cfacfbd284b49d445c4d8.jpg)
 
 監督：[[ジェームズ・ガン]]
 主演：[[クリス・プラット]]

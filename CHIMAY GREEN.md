@@ -4,7 +4,7 @@ updated: 1663584404
 ---
 
 ## CHIMAY GREEN
-![](https://gyazo.com/ba45f942f2175b4b71d7bc65bca3fbaf.jpg)
+![](https://img.choiyaki.com/c753acc536e3ebd545c03dc7c42fb7c9.jpg)
 
 醸造所：[[三井食品]]
 スタイル：[[トラピストビール]]

@@ -4,7 +4,7 @@ updated: 1741053537
 ---
 
 ## 【movie】ジョン・ウィック コンセクエンス
-![](https://gyazo.com/b88e09692ff597c2d4dca4d9f9955627.jpg)
+![](https://img.choiyaki.com/61887d7db581f71e2a1da4657fdfd52c.jpg)
 
 監督：[[チャド・スタエルスキ]]
 主演：[[キアヌ・リーブス]]

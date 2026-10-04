@@ -4,7 +4,7 @@ updated: 1779541375
 ---
 
 ### MASTER'S DREAM ＃66
-![](https://gyazo.com/2fc7d4c4352266ef04c53ea8bb6f1e07.jpg)
+![](https://img.choiyaki.com/0a663a0f16fd438f642f043e6b836f98.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[ピルスナー]]

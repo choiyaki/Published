@@ -4,7 +4,7 @@ updated: 1756907472
 ---
 
 ### YEBISU 和奏
-![](https://gyazo.com/990bbdebfeb0cb0aa54ddd9f25ad01d4.jpg)
+![](https://img.choiyaki.com/887c54b5c237a58f9075a908f6011db6.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

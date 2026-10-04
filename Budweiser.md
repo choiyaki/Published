@@ -4,7 +4,7 @@ updated: 1758021916
 ---
 
 ### Budweiser
-![](https://gyazo.com/bb360c3d9321935e1bf68160d55c2e11.jpg)
+![](https://img.choiyaki.com/31c572cb5151177df57b020ec538659c.jpg)
 
 醸造所：[[エービーインベブジャパン]]
 スタイル：[[ピルスナー]]

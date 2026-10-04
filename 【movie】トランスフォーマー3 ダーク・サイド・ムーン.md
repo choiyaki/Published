@@ -4,7 +4,7 @@ updated: 1692021810
 ---
 
 ## 【movie】トランスフォーマー3 ダーク・サイド・ムーン
-![](https://gyazo.com/2f20cbe1a43805b72e7d89652a8e011c.jpg)
+![](https://img.choiyaki.com/0234fd2888f3617fca2980c00408e424.jpg)
 
 監督：[[マイケル・ベイ]]
 主演：[[シャイヤ・ラブーフ]]

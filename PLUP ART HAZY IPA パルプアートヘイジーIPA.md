@@ -4,7 +4,7 @@ updated: 1768132941
 ---
 
 ### PLUP ART HAZY IPA パルプアートヘイジーIPA
-![](https://gyazo.com/4665a816cc23c05e841cd3a41d044a2a.jpg)
+![](https://img.choiyaki.com/ca9f8df583d1a9a4660511c6958df6ed.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[IPA]]

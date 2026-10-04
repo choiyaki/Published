@@ -4,7 +4,7 @@ updated: 1669720425
 ---
 
 ## YEBISU ホップテロワール
-![](https://gyazo.com/ab426d900495febf95577838a86ada23.jpg)
+![](https://img.choiyaki.com/27724478f528372617f23dbae034f79d.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

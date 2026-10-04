@@ -3,7 +3,7 @@ created: 1777770003
 updated: 1777812671
 ---
 ### THE 軽井沢ビール 赤ビール Alt
-![](https://gyazo.com/5735aab7bc6ccd9cbbbf61a6bfb24b50.jpg)
+![](https://img.choiyaki.com/e1639459104918168092738c5ee54a8d.jpg)
 
 醸造所：[[軽井沢ブルワリー]]
 スタイル：[[アルト]]

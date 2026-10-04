@@ -4,7 +4,7 @@ updated: 1663550412
 ---
 
 ## DRAGONEYE MAGMA
-![](https://gyazo.com/e3079c40e2183a1f375eb0a5d92d1526.jpg)
+![](https://img.choiyaki.com/dd1c8d28edad380b33b3c45e2e13618f.jpg)
 
 醸造所：[[暁ブルワリー]]
 スタイル：[[IPA]]

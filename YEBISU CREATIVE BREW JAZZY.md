@@ -4,7 +4,7 @@ updated: 1764069099
 ---
 
 ### YEBISU CREATIVE BREW JAZZY
-![](https://gyazo.com/1155249ad11466a7833a381a9a402ffc.jpg)
+![](https://img.choiyaki.com/42d0426987dabd1e141eba5379c48403.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

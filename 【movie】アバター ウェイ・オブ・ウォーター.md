@@ -4,7 +4,7 @@ updated: 1687667226
 ---
 
 ## 【movie】アバター ウェイ・オブ・ウォーター
-![](https://gyazo.com/a9224f2d4ceca8377de9dacaee68b7f9.jpg)
+![](https://img.choiyaki.com/ea1a485db3b68ea4f1148d49af2038ed.jpg)
 
 監督：[[ジェームズ・キャメロン]]
 主演：[[サム・ワーシントン]]

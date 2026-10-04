@@ -4,7 +4,7 @@ updated: 1715679731
 ---
 
 ## CAPTAIN CROW EXTRA PALE ALE
-![](https://gyazo.com/bb99a64e44c1cab1beaec056e3c96ce9.jpg)
+![](https://img.choiyaki.com/6046c7545c6d1ccd0058825a5be8ad40.jpg)
 
 醸造所：[[オラホビール]]
 スタイル：[[ペールエール]]

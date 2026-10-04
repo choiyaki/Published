@@ -4,7 +4,7 @@ updated: 1692021121
 ---
 
 ## 【movie】トランスフォーマー
-![](https://gyazo.com/7aa5dece663f6cff12956e2bea02c266.jpg)
+![](https://img.choiyaki.com/ff2280df62941727b0e838fe16766cb3.jpg)
 
 監督：[[マイケル・ベイ]]
 主演：[[シャイヤ・ラブーフ]]

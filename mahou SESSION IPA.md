@@ -2,7 +2,7 @@
 created: 1786534156
 updated: 1786534188
 ---
-![](https://i.gyazo.com/1a389aa3d93b6a6465d5c9b5096c8e9b.jpg)
+![](https://img.choiyaki.com/09a43fe58b27f77cfbaee6f2be4bdedc.jpg)
 
 醸造所：[[キムラ]]
 スタイル：[[SESSION IPA]]
@@ -12,7 +12,7 @@ updated: 1786534188
 
 [[🍺ビール]]
 20260812
-![](https://i.gyazo.com/1a389aa3d93b6a6465d5c9b5096c8e9b.jpg)
+![](https://img.choiyaki.com/09a43fe58b27f77cfbaee6f2be4bdedc.jpg)
 
 醸造所：[[キムラ]]
 スタイル：[[SESSION IPA]]

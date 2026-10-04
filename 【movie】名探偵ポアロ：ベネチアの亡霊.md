@@ -4,7 +4,7 @@ updated: 1782220810
 ---
 
 ## 【movie】名探偵ポアロ：ベネチアの亡霊
-![](https://gyazo.com/81e359f77fef52c69066fb442b762958.jpg)
+![](https://img.choiyaki.com/8d85cc69bc21f1aac864e46991881956.jpg)
 
 監督：[[ケネス・ブラナー]]
 主演：[[ケネス・ブラナー]]

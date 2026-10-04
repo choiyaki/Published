@@ -4,7 +4,7 @@ updated: 1765277288
 ---
 
 ### SPRING VALLEY まろみのエール
-![](https://gyazo.com/a39260261e502c4eee0c3f249c4c99b9.jpg)
+![](https://img.choiyaki.com/6f87d34ac3efa472094aaada50dac60c.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[エールビール]]

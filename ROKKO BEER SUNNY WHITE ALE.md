@@ -4,7 +4,7 @@ updated: 1663550880
 ---
 
 ## ROKKO BEER SUNNY WHITE ALE
-![](https://gyazo.com/9c5d77004abf6fdd8ddd15a7d0755ea4.jpg)
+![](https://img.choiyaki.com/7e964b6159a582655078b8c5984e7080.jpg)
 
 醸造所：[[六甲ビール]]
 スタイル：[[ヴァイツェン]]

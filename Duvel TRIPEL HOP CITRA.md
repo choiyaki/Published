@@ -4,7 +4,7 @@ updated: 1758896020
 ---
 
 ### Duvel TRIPEL HOP CITRA
-![](https://gyazo.com/a350777bec5fcaf747123a48f6891034.jpg)
+![](https://img.choiyaki.com/39c09463c87347672220a870bc531217.jpg)
 
 醸造所：[[小西酒造]]
 スタイル：[[エールビール]]

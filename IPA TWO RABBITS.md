@@ -4,7 +4,7 @@ updated: 1745319607
 ---
 
 ### IPA TWO RABBITS
-![](https://gyazo.com/9e16c5d6a931c00337bca04afff943c2.jpg)
+![](https://img.choiyaki.com/1faf887b6e56795b10b62f14ad8bef9c.jpg)
 
 醸造所：[[二兎醸造]]
 スタイル：[[IPA]]

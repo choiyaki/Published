@@ -4,7 +4,7 @@ updated: 1765811976
 ---
 
 ### DEFENDER IPA ディフェンダーIPA
-![](https://gyazo.com/3794998e5c3614e5d7cc9c0ac5c5e76e.jpg)
+![](https://img.choiyaki.com/b85223e203fdd88f38f91c5aea709512.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[IPA]]

@@ -4,7 +4,7 @@ updated: 1706799651
 ---
 
 ## BREWDOG MASH UP IPA
-![](https://gyazo.com/20ce8a7d64a6ecdfd0bfe9b90a6bd492.jpg)
+![](https://img.choiyaki.com/df41809f524ae6a01a8a1a36df8508af.jpg)
 
 醸造所：[[BREWDOG]]
 スタイル：[[IPA]]

@@ -4,7 +4,7 @@ updated: 1727696095
 ---
 
 ## YEBISU 燻 ーいぶしー
-![](https://gyazo.com/a91801f04f6b887e8b98bb8007818506.jpg)
+![](https://img.choiyaki.com/b660066ac0554541048aac724bbc8f7d.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

@@ -4,7 +4,7 @@ updated: 1666265445
 ---
 
 ## バラディンPOP ペールエール
-![](https://gyazo.com/138714f7cfd2028bccdafb6c581a75fe.jpg)
+![](https://img.choiyaki.com/a604511192a396e16bf6283c61dd84a5.jpg)
 
 醸造所：[[三井食品]]
 スタイル：[[ペールエール]]

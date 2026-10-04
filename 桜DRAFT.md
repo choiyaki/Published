@@ -4,7 +4,7 @@ updated: 1675865101
 ---
 
 ## 桜DRAFT
-![](https://gyazo.com/07069912c6b626f6a87498277ac8be84.jpg)
+![](https://img.choiyaki.com/d2a06c3ee90e44e0d96cd6482ad3f701.jpg)
 
 醸造所：[[網走ビール]]
 スタイル：[[発泡酒]]

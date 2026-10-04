@@ -4,7 +4,7 @@ updated: 1761991629
 ---
 
 ## BROOKLYN BREWERY SORACHI ACE
-![](https://gyazo.com/4020f57aa70f3e2181f72cdc98474f8b.jpg)
+![](https://img.choiyaki.com/434c3b0db06b27de7409306c4eca512a.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[セゾン]]

@@ -4,7 +4,7 @@ updated: 1735819262
 ---
 
 ## The DEAD BEER IPA
-![](https://gyazo.com/9c93003806904ce7c5a64a76c70afe35.jpg)
+![](https://img.choiyaki.com/4052d6e39417b07cbabfccea144dc1f1.jpg)
 
 醸造所：[[ALLENDE]]
 スタイル：[[IPA]]
@@ -12,7 +12,7 @@ updated: 1735819262
 独特な風味のIPA。アンバーな香りがけっこうする。シトラス感はほぼなし。アンバーエールと言われてもおかしくない風味。苦味はしっかりしてていいけど、香りがやはりもっといいのがいいな。
 
 [[🍺ビール]]## The DEAD BEER IPA
-![](https://gyazo.com/496efb1bf9b3a7abd7b1867f44263273.jpg)
+![](https://img.choiyaki.com/6745385e972d915ffa00f05f0b2eed6f.jpg)
 
 醸造所：[[ALLENDE]]
 スタイル：[[IPA]]

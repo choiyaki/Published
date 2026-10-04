@@ -4,7 +4,7 @@ updated: 1633504868
 ---
 
 ### 劇場版 ファイナルファンタジーXIV 光のお父さん
-![](https://gyazo.com/44a7f86552fc18c47c37f513a9cf3a9a.jpg)
+![](https://img.choiyaki.com/dd9de32d8694bca7297bfce364c261cb.jpg)
 
 よかったね。感動した。
 吉田鋼太郎の演技が笑えるし、感動するところはしっかり感動させてくれるし、とてもよかった。

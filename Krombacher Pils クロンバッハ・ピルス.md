@@ -4,7 +4,7 @@ updated: 1669643955
 ---
 
 ## Krombacher Pils クロンバッハ・ピルス
-![](https://gyazo.com/6c94b3b8c88707fd8d86fd8a432c59cc.jpg)
+![](https://img.choiyaki.com/08d4ac4c81f116ed20a5348bfa4ca8c6.jpg)
 
 醸造所：[[コルドンヴェール]]
 スタイル：[[ピルスナー]]

@@ -3,7 +3,7 @@ created: 1780841081
 updated: 1781046353
 ---
 
-![](https://gyazo.com/7817708450c212b77239e473e986e623.jpg)
+![](https://img.choiyaki.com/ee2f2301fb23b9c3c45a5535bbf3d29b.jpg)
 [『Humankind 希望の歴史 上』（ルトガー・ブレグマン）](https://amzn.to/3KM9Cvt)
 
 著者： [[ルトガー・ブレグマン]] 

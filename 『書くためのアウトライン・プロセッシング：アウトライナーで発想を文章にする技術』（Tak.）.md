@@ -3,7 +3,7 @@ created: 1782220773
 updated: 1782220773
 ---
 
-[![](https://gyazo.com/c615c3f61278cb2cdd8fae2baf0695a6.jpg)](https://amzn.to/3wnHYMY)
+[![](https://img.choiyaki.com/409f4c1fc5c281309c26199f0c8b6d4b.jpg)](https://amzn.to/3wnHYMY)
 [『書くためのアウトライン・プロセッシング：アウトライナーで発想を文章にする技術』（Tak.）](https://amzn.to/3wnHYMY)
 
 [[『アウトライン・プロセッシング入門：アウトライナーで文章を書き、考える技術』（Tak.）]]、[[『アウトライン・プロセッシングLIFE：アウトライナーで書く「生活」と「人生」』（Tak.）]]に引き続き、今度は文章を書く・発想を文章にしていくためのアウトライナーの使い方について。

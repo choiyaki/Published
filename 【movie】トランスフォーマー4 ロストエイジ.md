@@ -4,7 +4,7 @@ updated: 1692021903
 ---
 
 ## 【movie】トランスフォーマー4 ロストエイジ
-![](https://gyazo.com/22ba523f917f683a580f948021caf753.jpg)
+![](https://img.choiyaki.com/9151061bc1b00c9bf52c1858a26d1dcc.jpg)
 
 監督：[[マイケル・ベイ]]
 主演：[[マーク・ウォールバーグ]]

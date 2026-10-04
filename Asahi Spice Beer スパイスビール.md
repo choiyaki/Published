@@ -4,7 +4,7 @@ updated: 1766145273
 ---
 
 ### Asahi Spice Beer スパイスビール
-![](https://gyazo.com/47592b1219fea32ba7a64a7db3a0f0ce.jpg)
+![](https://img.choiyaki.com/f5271e9368b466c437171fd0e89781e2.jpg)
 
 醸造所：[[アサヒビール]]
 スタイル：[[ピルスナー]]

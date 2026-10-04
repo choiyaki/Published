@@ -4,7 +4,7 @@ updated: 1760019597
 ---
 
 ### MASTER'S DREAM LIMITED EDITION ＃18
-![](https://gyazo.com/322f1c519839645d03ea26af71e81a6e.jpg)
+![](https://img.choiyaki.com/318985139617a82bc452c3e0c1fdb3c0.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[ピルスナー]]

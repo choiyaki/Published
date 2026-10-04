@@ -4,7 +4,7 @@ updated: 1704188701
 ---
 
 ## DUCK DUCK GOOSE
-![](https://gyazo.com/eab25c0654130e9923294a36dc835444.jpg)
+![](https://img.choiyaki.com/5497c42064d1bb54903f9256210fd024.jpg)
 
 醸造所：[[GOOSE ISLAND]]
 スタイル：[[セッションIPA]]

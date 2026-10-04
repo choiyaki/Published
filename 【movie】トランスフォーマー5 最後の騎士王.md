@@ -4,7 +4,7 @@ updated: 1692022083
 ---
 
 ## 【movie】トランスフォーマー5 最後の騎士王
-![](https://gyazo.com/d16fad82a921fa61b14a85275a710c8e.jpg)
+![](https://img.choiyaki.com/36beb3fbe60747227de111162c28d778.jpg)
 
 監督：[[マイケル・ベイ]]
 主演：[[マーク・ウォールバーグ]]

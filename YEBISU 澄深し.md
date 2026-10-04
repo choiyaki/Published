@@ -4,7 +4,7 @@ updated: 1772024063
 ---
 
 ### YEBISU 澄深し
-![](https://gyazo.com/9f6d8febb067d6829afb37f7598d476f.jpg)
+![](https://img.choiyaki.com/7eb2f4ba5e092a90dd147afd1950b2a0.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

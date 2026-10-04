@@ -4,7 +4,7 @@ updated: 1755615970
 ---
 
 ### マスターズドリーム MASTER'S DREAM
-![](https://gyazo.com/f2e69ce441a5d54df724d7f70c830c58.jpg)
+![](https://img.choiyaki.com/bd2cc9a2f291fd5ce6b48dc3e86b71c5.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[ピルスナー]]

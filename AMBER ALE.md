@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## AMBER ALE
-![](https://gyazo.com/cd27491f5f4b2e15ff7c242a2a70c439.jpg)
+![](https://img.choiyaki.com/d62337231b2fde43a1bc604d053cd6d5.jpg)
 
 醸造所：[[オラホビール]]
 スタイル：[[アンバーエール]]

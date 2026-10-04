@@ -4,7 +4,7 @@ updated: 1692021312
 ---
 
 ## 【movie】トランスフォーマー2 リベンジ
-![](https://gyazo.com/593722a17e898f4454903565038c942a.jpg)
+![](https://img.choiyaki.com/3e44cbda81d9c3ae1df88102fcb58e4c.jpg)
 
 監督：[[マイケル・ベイ]]
 主演：[[シャイヤ・ラブーフ]]

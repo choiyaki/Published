@@ -2,7 +2,7 @@
 created: 1783330463
 updated: 1783330463
 ---
-![](https://i.gyazo.com/7469a5631b28d7a0ec4f0827ce80b6fd.jpg)
+![](https://img.choiyaki.com/109b1c7b6625eee253d350c56874272b.jpg)
 
 醸造所：[[オリオンビール]]
 スタイル：[[ピルスナー]]

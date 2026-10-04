@@ -4,7 +4,7 @@ updated: 1728209813
 ---
 
 ## Corona Extra コロナ エクストラ
-![](https://gyazo.com/66fcea20eb74e01ecdc0e9a3a246a605.jpg)
+![](https://img.choiyaki.com/8449e7cf5736d07fa9eb2bf9785b3e1e.jpg)
 
 醸造所：[[アンハイザーブッシュインベブジャパン]]
 スタイル：[[アメリカンラガー]]

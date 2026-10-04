@@ -4,7 +4,7 @@ updated: 1708221372
 ---
 
 ## 【movie】マーベルズ The Marvels
-![](https://gyazo.com/4d26088feea89f1b736d46308dc4ae82.jpg)
+![](https://img.choiyaki.com/505cc30d43f97f9908e087ed6f2dfb30.jpg)
 
 監督：[[ニア・ダコスタ]]
 主演：[[ブリー・ラーソン]]

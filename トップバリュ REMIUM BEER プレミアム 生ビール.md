@@ -5,7 +5,7 @@ updated: 1756213121
 
 ### トップバリュ REMIUM BEER プレミアム 生ビール
 
-![](https://gyazo.com/8f33a2ab8213736438f9529e152a70ca.jpg)
+![](https://img.choiyaki.com/bae9d269cfb3ac17014f43ffaf7a8079.jpg)
 醸造所：[[イオントップバリュ]]
 スタイル：[[ピルスナー]]
 

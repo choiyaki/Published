@@ -4,7 +4,7 @@ updated: 1689769407
 ---
 
 ## サッポロ ファイブスター Five Star
-![](https://gyazo.com/680561e8d14ebb33264cf961c85bf243.jpg)
+![](https://img.choiyaki.com/89550a14fb4fba23e73669b168199caf.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

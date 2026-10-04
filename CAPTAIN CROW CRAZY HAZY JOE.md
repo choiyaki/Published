@@ -4,7 +4,7 @@ updated: 1745504850
 ---
 
 ## CRAZY HAZY JOE
-![](https://gyazo.com/f0311cde6002262022651028311f3dd6.jpg)
+![](https://img.choiyaki.com/f8cf42f81c2d29a7db955f06bbf3c27f.jpg)
 
 醸造所：[[オラホビール]]
 スタイル：[[HAZY IPA]]

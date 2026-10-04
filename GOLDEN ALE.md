@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## GOLDEN ALE 
-![](https://gyazo.com/11bfb5f8358758ffd3563127e35b64a2.jpg)
+![](https://img.choiyaki.com/73fdd9b2011c42163678f15a3c7ab993.jpg)
 
 醸造所：[[オラホビール]]
 スタイル：[[ゴールデンエール]]

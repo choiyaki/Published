@@ -4,7 +4,7 @@ updated: 1754277629
 ---
 
 ## 【movie】デッドプール＆ウルヴァリン
-![](https://gyazo.com/ea83ae6e614082915632a03ff5ce7225.raw)
+![](https://img.choiyaki.com/11d880bc25770746c671b3085a51c74b.jpg)
 
 監督：[[ショーン・レビ]]
 主演：[[ライアン・レイノルズ]]

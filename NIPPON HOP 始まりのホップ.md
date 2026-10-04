@@ -4,7 +4,7 @@ updated: 1678704125
 ---
 
 ## NIPPON HOP 始まりのホップ
-![](https://gyazo.com/5d70111bbb1bea491cf85a85d5a8bb4f.jpg)
+![](https://img.choiyaki.com/9f63f80227dc007752473917b41dfdf6.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

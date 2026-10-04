@@ -4,7 +4,7 @@ updated: 1747052081
 ---
 
 ### 【movie】キャプテン・アメリカ ウィンター・ソルジャー
-![](https://gyazo.com/0c6c68e81d504a0a1ce5e672c87c6ed1.jpg)
+![](https://img.choiyaki.com/5f724e72819a1230a4b9d3801eeb7a7f.jpg)
 
 監督：[[アンソニー＆ジョー・ルッソ]]
 主演：[[クリス・エヴァンス]]

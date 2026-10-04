@@ -4,7 +4,7 @@ updated: 1726994182
 ---
 
 ## Voyager IPA
-![](https://gyazo.com/3a3d3498858a04fedb4d50817880b046.jpg)
+![](https://img.choiyaki.com/8a2462243cf0bec2e83ad6a02d6e3cf7.jpg)
 
 醸造所：[[ボイジャーブルーイング]]
 スタイル：[[IPA]]

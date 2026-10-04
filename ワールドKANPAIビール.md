@@ -4,7 +4,7 @@ updated: 1757247121
 ---
 
 ### ワールドKANPAIビール
-![](https://gyazo.com/70234983ea3e1c78d381a4236f7519e3.jpg)
+![](https://img.choiyaki.com/6f76a1a04799e0d5ac314db74bdb23a9.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[ピルスナー]]

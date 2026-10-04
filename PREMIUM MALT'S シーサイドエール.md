@@ -4,7 +4,7 @@ updated: 1688291538
 ---
 
 ## PREMIUM MALT'S シーサイドエール
-![](https://gyazo.com/8ed2f581785c3004a858bcf6445fe137.jpg)
+![](https://img.choiyaki.com/604c731fc5a2fd369a685dd0ea8f7388.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[オリジナルエール]]

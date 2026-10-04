@@ -3,7 +3,7 @@ created: 1642908249
 updated: 1642908396
 ---
 
-![](https://gyazo.com/aedef98eac0360bff8affb7ca3ce6f06.jpg)
+![](https://img.choiyaki.com/91316b6cdcdc38e818830775efb40f61.jpg)
 
 グレープフルーツと名打ってるだけあって、甘みの少ないグレープフルーツのお酒、という印象のビール。ジュースっぽくて飲みやすいけど、ビールの感じはまずまずある、という感じですね。
 

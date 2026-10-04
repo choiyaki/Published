@@ -4,7 +4,7 @@ updated: 1694515548
 ---
 
 ## 【movie】真夏の方程式
-![](https://gyazo.com/9f44c302f2723cdc79458586bdfede5a.jpg)
+![](https://img.choiyaki.com/622405b0a78cdd2f0d42b296ed5131a8.jpg)
 
 監督：[[西谷弘]]
 主演：[[福山雅治]]

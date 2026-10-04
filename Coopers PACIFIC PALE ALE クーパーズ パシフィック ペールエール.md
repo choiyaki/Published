@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## Coopers PACIFIC PALE ALE クーパーズ パシフィック ペールエール
-![](https://gyazo.com/9e0db03c5c72d81a3be91fc0535b198a.jpg)
+![](https://img.choiyaki.com/94edc3c660348cb59a12d0907f0f5949.jpg)
 
 醸造所：[[COOPERS BREWERY]]
 スタイル：[[ペールエール]]

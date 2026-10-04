@@ -4,7 +4,7 @@ updated: 1653732931
 ---
 
 ## ABASHIRI White Ale
-![](https://gyazo.com/f0b6fa5149f195a0178f2d5aecf431be.jpg)
+![](https://img.choiyaki.com/4f2fe256463ec7fa0222c479c7bd447c.jpg)
 
 醸造所：[[網走ビール]]
 スタイル：[[ヴァイツェン]]

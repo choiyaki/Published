@@ -4,7 +4,7 @@ updated: 1703929713
 ---
 
 ## アドレセンス Adolescence
-![](https://gyazo.com/280025bfae365688efcb53abbe6aceb8.jpg)
+![](https://img.choiyaki.com/b72638d6ae3205e535bda770c0b478ea.jpg)
 
 醸造所：[[リオ・ブルーイング・コー]]
 スタイル：[[DIPA]]

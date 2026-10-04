@@ -4,7 +4,7 @@ updated: 1703929732
 ---
 
 ## ユートピア Utopia
-![](https://gyazo.com/939389ce88cf0463f5d498262140ba42.jpg)
+![](https://img.choiyaki.com/f76dafbeafe51aa10a99f01ff461a231.jpg)
 
 醸造所：[[リオ・ブルーイング・コー]]
 スタイル：[[ヴァイツェン]]

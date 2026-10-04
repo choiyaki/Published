@@ -4,7 +4,7 @@ updated: 1763879067
 ---
 
 ### SAPPORO BEER SURPRISE ビアサプライズ 至福のコク
-![](https://gyazo.com/3ecc64ad8ed4817b89d374150db7a895.jpg)
+![](https://img.choiyaki.com/1e72135bc9f0e2d329a8bf4f952e4e36.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

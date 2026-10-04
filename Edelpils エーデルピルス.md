@@ -4,7 +4,7 @@ updated: 1764675056
 ---
 
 ### Edelpils エーデルピルス
-![](https://gyazo.com/4276afd21092dab58c6cdeb03b5d20e7.jpg)
+![](https://img.choiyaki.com/53a7adb32271bc57c8aef4766c085c39.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

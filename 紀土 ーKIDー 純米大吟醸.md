@@ -4,7 +4,7 @@ updated: 1760781903
 ---
 
 ### 紀土 ーKIDー 純米大吟醸
-![](https://gyazo.com/b3ad5d9a568b304899707cbb6a658f9f.jpg)
+![](https://img.choiyaki.com/d27bdb947b8483f1ab0a31904e4b0008.jpg)
 
 醸造所：[[平和酒造]]
 スタイル：[[純米大吟醸]]

@@ -2,7 +2,7 @@
 created: 1786710587
 updated: 1786710683
 ---
-![](https://i.gyazo.com/cb1f6f4b0a636f269267bc4e2e8b0b8f.jpg)
+![](https://img.choiyaki.com/7a0d7f7d6983864bd4fc3c7240a11b60.jpg)
 
 醸造所：[[グッドウルフ麦酒]]
 スタイル：[[ペールエール]]

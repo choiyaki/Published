@@ -4,7 +4,7 @@ updated: 1638549547
 ---
 
 ### るろうに剣心 最終章 The Final
-![](https://gyazo.com/c4a59ad96a4c46858f8b4794be282176.jpg)
+![](https://img.choiyaki.com/df0b4e072e7128facadc27cb0c345f03.jpg)
 
 いやー、よかったね。志々雄真実編よりも断然良かった。
 アクションが1作目のときの衝撃をまた感じさせてくれた。で、過去の話はTheBeginingでやるっていうのは、なるほどなぁ。

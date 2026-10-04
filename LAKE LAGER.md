@@ -4,7 +4,7 @@ updated: 1745056193
 ---
 
 ### LAKE LAGER
-![](https://gyazo.com/370b6d6595dc550a9825f4e78bcec938.jpg)
+![](https://img.choiyaki.com/3edea5162af41efde31cba874d055c9c.jpg)
 
 醸造所：[[二兎醸造]]
 スタイル：[[ラガー]]

@@ -4,7 +4,7 @@ updated: 1664612609
 ---
 
 ## 伊勢角 ISEKADO PALE ALE
-![](https://gyazo.com/dc3dd4602b45cd40179f39b15b8d49e0.jpg)
+![](https://img.choiyaki.com/5623bcf840e5ae468027f87d03056c31.jpg)
 
 醸造所：[[伊勢角屋麦酒]]
 スタイル：[[ペールエール]]

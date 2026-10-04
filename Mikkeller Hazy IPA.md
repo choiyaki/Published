@@ -4,7 +4,7 @@ updated: 1745504795
 ---
 
 ## Mikkeller Hazy IPA
-![](https://gyazo.com/c87550d968a0aa7173a23ba6ec4eccd1.jpg)
+![](https://img.choiyaki.com/2e64f7ca2d043ae4a1acbbc2c17f6532.jpg)
 
 醸造所：[[ウィスク・イー]]
 スタイル：[[HAZY IPA]]

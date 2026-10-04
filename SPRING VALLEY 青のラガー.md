@@ -4,7 +4,7 @@ updated: 1753092298
 ---
 
 ### SPRING VALLEY 青のラガー
-![](https://gyazo.com/73477912c18cd8749a2a6e71c80a3b0c.jpg)
+![](https://img.choiyaki.com/f5c5ea81d507b398d107c63dd92f6b17.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[ラガー]]

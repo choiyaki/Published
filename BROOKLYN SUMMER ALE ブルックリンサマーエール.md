@@ -4,7 +4,7 @@ updated: 1761991523
 ---
 
 ### BROOKLYN SUMMER ALE ブルックリンサマーエール
-![](https://gyazo.com/6ee080c8cf9f76721c7dd45aa60a4ef0.jpg)
+![](https://img.choiyaki.com/a5cd758fc790f5e1506733a0611aa3c4.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[エールビール]]

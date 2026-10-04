@@ -4,7 +4,7 @@ updated: 1771936295
 ---
 
 ### Hoegaarden ROSEE
-![](https://gyazo.com/a8749770196dbfdba54c6a9658316afc.jpg)
+![](https://img.choiyaki.com/906fa91f52c5304fbf8c634506955392.jpg)
 
 醸造所：[[エービーインベブジャパン]]
 スタイル：[[ヴァイツェン]]

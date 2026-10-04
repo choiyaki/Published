@@ -4,7 +4,7 @@ updated: 1745664888
 ---
 
 ### ONI HAZY IPA
-![](https://gyazo.com/a047f361038ce158f5ae71115ea7015b.jpg)
+![](https://img.choiyaki.com/44c7c23e34f6c607e55a41829743adde.jpg)
 
 醸造所：[[二兎醸造]]
 スタイル：[[HAZY IPA]]

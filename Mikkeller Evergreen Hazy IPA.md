@@ -4,7 +4,7 @@ updated: 1745504757
 ---
 
 ## Mikkeller Evergreen Hazy IPA
-![](https://gyazo.com/5056af7642af98fea91a4c5348cf0a24.jpg)
+![](https://img.choiyaki.com/4bdea6cd053998c0548b504f8665cc4e.jpg)
 
 醸造所：[[Mikkeller]]
 スタイル：[[HAZY IPA]]

@@ -4,7 +4,7 @@ updated: 1669540568
 ---
 
 ## LUCKY RABBIT
-![](https://gyazo.com/040a60b86140f58836ef748e78bccc3c.jpg)
+![](https://img.choiyaki.com/3fa2a65f35f08d5572238e922f8658e9.jpg)
 
 醸造所：[[黄桜]]
 スタイル：[[ペールエール]]

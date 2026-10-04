@@ -4,7 +4,7 @@ updated: 1693646287
 ---
 
 ## NIPPON HOP 希望のホップ リトルスター
-![](https://gyazo.com/6d6615d337b68369bb4c2a14fee167cd.jpg)
+![](https://img.choiyaki.com/22f65446128104b4bc953410bcb76f2b.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

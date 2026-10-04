@@ -3,7 +3,7 @@ created: 1640514445
 updated: 1640514844
 ---
 
-![](https://gyazo.com/826b3a170207a88771d31919616415ad.jpg)
+![](https://img.choiyaki.com/56ed5be1b91aed9c0222d6a4aedad2aa.jpg)
 
 シトラス！という感じのビール。おいしい。
 あっさり目でスッキリしてるけど、しっかりしてる味のビール。

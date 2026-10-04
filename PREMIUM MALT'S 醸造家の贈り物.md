@@ -4,7 +4,7 @@ updated: 1723976354
 ---
 
 ## PREMIUM MALT'S 醸造家の贈り物
-![](https://gyazo.com/e12e1133df75de75cb6cb2f244890606.jpg)
+![](https://img.choiyaki.com/d83eb2ac9f9e7b9f8c396c449752af90.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[ピルスナー]]

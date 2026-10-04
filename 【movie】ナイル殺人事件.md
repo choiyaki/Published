@@ -4,7 +4,7 @@ updated: 1694517340
 ---
 
 ## 【movie】ナイル殺人事件
-![](https://gyazo.com/3c1f1a3a08dbf03fed6ccc3687f478c9.jpg)
+![](https://img.choiyaki.com/0d2bde9f921398135a822f3a2c2c170a.jpg)
 
 監督：[[ケネス・ブラナー]]
 主演：[[ケネス・ブラナー]]

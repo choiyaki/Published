@@ -4,7 +4,7 @@ updated: 1743284962
 ---
 
 ## Moment
-![](https://gyazo.com/ebfd2fa827b18a451ce412e3cb9fa9cf.jpg)
+![](https://img.choiyaki.com/4929696fb72a0ba2cb8ad1e92c92d715.jpg)
 
 醸造所：[[リオ・ブルーイング・コー]]
 スタイル：[[IPA]]

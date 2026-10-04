@@ -3,7 +3,7 @@ created: 1776940983
 updated: 1777812708
 ---
 ### YEBISU 藍想う
-![](https://gyazo.com/5af554358d1646721ccd816933ddaa2c.jpg)
+![](https://img.choiyaki.com/94c0939f4126156e322335db41b8a616.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

@@ -4,7 +4,7 @@ updated: 1663413800
 ---
 
 ## SPRING VALLEY シルクエール〈白〉
-![](https://gyazo.com/473f75bfffa9178ec9b478c62d1ee324.jpg)
+![](https://img.choiyaki.com/2696269e5e27cc00191f424d3e8bcfff.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[エール]]

@@ -4,7 +4,7 @@ updated: 1746024258
 ---
 
 ### THE BITTER-IST
-![](https://gyazo.com/abaea7e9c0ac4d264d863cb53fec9750.jpg)
+![](https://img.choiyaki.com/3d1428e8808881f9cefc36119de4803d.jpg)
 
 醸造所：[[アサヒビール]]
 スタイル：[[ピルスナー]]

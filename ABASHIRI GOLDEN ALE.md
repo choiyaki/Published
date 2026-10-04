@@ -4,7 +4,7 @@ updated: 1660306623
 ---
 
 ## ABASHIRI GOLDEN ALE
-![](https://gyazo.com/36079ce68e0c18d22fc87de06b093588.jpg)
+![](https://img.choiyaki.com/20fc1c992add5ce4e0ad629582d665c5.jpg)
 
 醸造所：[[網走ビール]]
 スタイル：[[ピルスナー]]

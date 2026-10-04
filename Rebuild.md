@@ -3,7 +3,7 @@ created: 1744708907
 updated: 1744799000
 ---
 
-![](https://gyazo.com/7d5cccce5d15d56c940682f3afbf91d3/raw)
+![](https://img.choiyaki.com/57ea3ed186415716bb6d337e5e1d1db4.jpg)
 
 table:infobox
   - Rebuild 聴いた

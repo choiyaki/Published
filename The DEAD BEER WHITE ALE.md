@@ -4,7 +4,7 @@ updated: 1715679731
 ---
 
 ## The DEAD BEER WHITE ALE
-![](https://gyazo.com/c19e843d509077e8eea89ae430bbf7e5.jpg)
+![](https://img.choiyaki.com/3bf4e18b9d5bbe22c735a040c6d7c963.jpg)
 
 醸造所：[[ALLENDE]]
 スタイル：[[ヴァイツェン]]

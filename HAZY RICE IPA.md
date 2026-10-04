@@ -4,7 +4,7 @@ updated: 1745505046
 ---
 
 ### HAZY RICE IPA
-![](https://gyazo.com/fceacfb4c60a9d03e6a45148b722c070.jpg)
+![](https://img.choiyaki.com/0acdf094484a005f4920bc8d131db94c.jpg)
 
 醸造所：[[二兎醸造]]
 スタイル：[[HAZY IPA]]

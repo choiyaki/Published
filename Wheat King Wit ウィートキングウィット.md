@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## Wheat King Wit ウィートキングウィット
-![](https://gyazo.com/91148e22022936521d8df3447744b0ce.jpg)
+![](https://img.choiyaki.com/41f19571afefff86c9055d568a133578.jpg)
 
 醸造所：[[ベアードブルーイング]]
 スタイル：[[ヴァイツェン]]

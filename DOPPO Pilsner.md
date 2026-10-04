@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## DOPPO Pilsner
-![](https://gyazo.com/fd26aa73dcdc87fadfffdec2748a15cc.jpg)
+![](https://img.choiyaki.com/2286f91212767a843d78010b784e051f.jpg)
 
 醸造所：[[宮下酒造]]
 スタイル：[[ピルスナー]]

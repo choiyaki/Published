@@ -4,7 +4,7 @@ updated: 1729983768
 ---
 
 ## 【movie】ゴジラ×コング 新たなる帝国
-![](https://gyazo.com/e3c000dd98bfb449fc45e609fac00c6d.jpg)
+![](https://img.choiyaki.com/36f34189ae9f03e4e652311070bfdb12.jpg)
 
 監督：[[アダム・ウィンガード]]
 主演：[[レベッカ・ホール]]

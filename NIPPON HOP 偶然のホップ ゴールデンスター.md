@@ -4,7 +4,7 @@ updated: 1690279388
 ---
 
 ## NIPPON HOP 偶然のホップ ゴールデンスター
-![](https://gyazo.com/ea18082f00c4df7f1d62bdec1e2a723b.jpg)
+![](https://img.choiyaki.com/313773085027dbf5edb59064fec677f6.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

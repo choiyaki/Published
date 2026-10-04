@@ -4,7 +4,7 @@ updated: 1692452947
 ---
 
 ## 信州 諏訪浪漫 BEER りんどう
-![](https://gyazo.com/bbf8cff2d647ba2c74d1d13c2eb787ba.jpg)
+![](https://img.choiyaki.com/5ab2cccd3ce3aa654007a3836bedfd87.jpg)
 
 醸造所：[[麗人酒造]]
 スタイル：[[アンバーエール]]

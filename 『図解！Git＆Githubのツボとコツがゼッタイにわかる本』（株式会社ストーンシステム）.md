@@ -3,7 +3,7 @@ created: 1780751889
 updated: 1785296150
 ---
 
-![](https://gyazo.com/e9c95c4a56163ce8ff87ac4ee9cdd119.jpg)
+![](https://img.choiyaki.com/c4b0677affee4370449e79a1fffebc54.jpg)
 [『図解！Git＆Githubのツボとコツがゼッタイにわかる本』（株式会社ストーンシステム）](https://amzn.to/3txZyRD)
 
 著者： [[株式会社ストーンシステム]] 

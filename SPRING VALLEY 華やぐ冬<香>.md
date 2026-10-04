@@ -4,7 +4,7 @@ updated: 1782220582
 ---
 
 ## SPRING VALLEY 華やぐ冬＜香＞
-![](https://gyazo.com/d9a1c12939daded3ccf4ff97778da71d.jpg)
+![](https://img.choiyaki.com/87aad1fcfdb69ed425e1274ed4e8c136.jpg)
 
 醸造所：[[麒麟麦酒]]
 スタイル：[[ピルスナー]]

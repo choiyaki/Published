@@ -4,7 +4,7 @@ updated: 1694515849
 ---
 
 ## 【movie】沈黙のパレード
-![](https://gyazo.com/c8c136d99eaade957060c96ca6fd435b.jpg)
+![](https://img.choiyaki.com/76b2d0a3ac389a80007d0bdff89f4d5b.jpg)
 
 監督：[[西谷弘]]
 主演：[[福山雅治]]

@@ -4,7 +4,7 @@ updated: 1711374089
 ---
 
 ## COOPERS SPARKLING ALE クーパーズ スパークリングエール
-![](https://gyazo.com/8316f7b755bb7659056218442cc2dff6.jpg)
+![](https://img.choiyaki.com/b457b4c24b3ac209341a4d857276f5e8.jpg)
 
 醸造所：[[COOPERS BREWERY]]
 スタイル：[[ペールエール]]

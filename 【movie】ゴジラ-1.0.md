@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## 【movie】ゴジラ-1.0
-![](https://gyazo.com/bef498c1fdf3e5ded949b9cb8ff40124/raw)
+![](https://img.choiyaki.com/840bc5c619464fe17059ea4ab918be86.png)
 
 監督：[[山崎貴]]
 主演：[[神木隆之介]]

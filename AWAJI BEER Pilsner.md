@@ -4,7 +4,7 @@ updated: 1691671091
 ---
 
 ## AWAJI BEER Pilsner
-![](https://gyazo.com/b792b2872ed15ebf093da1ec3b5f6a54.jpg)
+![](https://img.choiyaki.com/5cbf2be3138ac6c7ae2f2e78e50107eb.jpg)
 
 醸造所：[[ユーアールエー]]
 スタイル：[[ピルスナー]]

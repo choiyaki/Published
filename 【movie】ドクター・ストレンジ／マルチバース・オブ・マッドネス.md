@@ -4,7 +4,7 @@ updated: 1782220804
 ---
 
 ## 【movie】ドクター・ストレンジ／マルチバース・オブ・マッドネス
-![](https://gyazo.com/aaa244bbee28c5734928075479aa2e70.jpg)
+![](https://img.choiyaki.com/bb96252c5750e1c9eadf6a85d7981ec8.jpg)
 
 監督：[[サム・ライミ]]
 主演：[[ベネディクト・カンバーバッチ]]

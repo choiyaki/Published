@@ -4,7 +4,7 @@ updated: 1707650049
 ---
 
 ## Silky Pinky
-![](https://gyazo.com/0172eb2eec8d5c09d245cd29ae4df7bb.jpg)
+![](https://img.choiyaki.com/ee8886a3861597574daff02e0230a491.jpg)
 
 醸造所：[[峰乃白梅酒造]]
 スタイル：[[純米吟醸]]

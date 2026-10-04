@@ -4,7 +4,7 @@ updated: 1725183449
 ---
 
 ## PREMIUM MOLT'S 涼の音エール
-![](https://gyazo.com/2b3d6e341d56727b1fe0d7a74fe9dfba.jpg)
+![](https://img.choiyaki.com/506ea2747af71b4d1cbe77932621e797.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[エールビール]]

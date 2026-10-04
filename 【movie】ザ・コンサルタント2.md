@@ -4,7 +4,7 @@ updated: 1755360774
 ---
 
 ### 【movie】ザ・コンサルタント2
-![](https://gyazo.com/e01785ebd0fc4057cb242cee7a7fa3db.jpg)
+![](https://img.choiyaki.com/54b95e7298edbdc3f27078b8033ffa5c.jpg)
 
 監督：[[ギャビン・オコナー]]
 主演：[[ベン・アフレック]]

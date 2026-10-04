@@ -4,7 +4,7 @@ updated: 1782220803
 ---
 
 ## 【movie】ターミネーター：ニュー・フェイト
-![](https://gyazo.com/a133abcb14f2df6bf297833f802aec0a.jpg)
+![](https://img.choiyaki.com/275c6bfe58e6d6f3642a17336b79e764.jpg)
 
 監督：[[ティム・ミラー]]
 主演：[[マッケンジー・デイヴィス]]

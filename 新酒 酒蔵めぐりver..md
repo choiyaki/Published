@@ -4,7 +4,7 @@ updated: 1774875344
 ---
 
 ### 新酒 酒蔵めぐりver.
-![](https://gyazo.com/f94402eb6c77f23c42dcaddb5bc01878.jpg)
+![](https://img.choiyaki.com/9c70588e0e8273d12aadd2e922acd29a.jpg)
 
 醸造所：[[北島酒造]]
 スタイル：[[純米]]

@@ -4,7 +4,7 @@ updated: 1666699045
 ---
 
 ## パラディン SUD
-![](https://gyazo.com/acc9352748371851a1a2d4442c1bba5a.jpg)
+![](https://img.choiyaki.com/a386699782fd5c261397f63ba218588d.jpg)
 
 醸造所：[[三井食品]]
 スタイル：[[ウィートエール]]

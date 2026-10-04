@@ -4,7 +4,7 @@ updated: 1745047491
 ---
 
 ### KINKAN WIT
-![](https://gyazo.com/14de8b14a4fed30ead49f1e5598afa28.jpg)
+![](https://img.choiyaki.com/edcb014cfbb24fa59f814feaeac98a46.jpg)
 
 醸造所：[[二兎醸造]]
 スタイル：[[ベルジャンホワイト]]

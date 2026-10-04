@@ -3,7 +3,7 @@ created: 1782220775
 updated: 1782220775
 ---
 
-![](https://gyazo.com/90e99bcd83e30565143058d906235f98.jpg)
+![](https://img.choiyaki.com/96f2c01283af6ec963996a2af281929c.jpg)
 
 著者： [[ジェリー・Z・ミュラー]] 
 出版社： [[みすず書房]] 

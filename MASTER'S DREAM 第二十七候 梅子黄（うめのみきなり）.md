@@ -2,7 +2,7 @@
 created: 1784372298
 updated: 1784372298
 ---
-![](https://i.gyazo.com/0b5f6de86f7e819da5707da4e6144f97.jpg)
+![](https://img.choiyaki.com/3dd5e04b5aafb2bc9f3102b77689a00a.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[ピルスナー]]

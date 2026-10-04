@@ -2,7 +2,7 @@
 created: 1784704884
 updated: 1784704994
 ---
-[![](https://i.gyazo.com/556b55f0b4260addc73dc3ab318a2afb.jpg)](https://amzn.to/4fdQHcG)
+[![](https://img.choiyaki.com/3fca3856dca7f280864e4939a96e16bd.jpg)](https://amzn.to/4fdQHcG)
 [『Learn Better』（アーリック・ボーザー）](https://amzn.to/4fdQHcG)
 
 著者：[[アーリック・ボーザー]]

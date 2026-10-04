@@ -10,11 +10,11 @@ updated: 1742601898
 　 このおかげで、BackLinkみたいな感じができる。
 
 # ダブルブラケットで囲んだ部分がタイトルであるデータが、同じフォルダにある場合
-![](https://gyazo.com/aeaee31a9d8d40f7057dcf9b021e5a77.img)
+![](https://img.choiyaki.com/49c3e2b24ed0ec00dd80ad6314111707.gif)
 - リンク先のデータが開かれる。
 
 # ダブルブラケットで囲んだ部分がタイトルであるデータが、別のフォルダにある・もしくない場合
-![](https://gyazo.com/a109ed23c3c83c3d2c96aa9a35f5e14c.img)
+![](https://img.choiyaki.com/3af0ec50fdf225b2e78706c5c4d79be3.gif)
 - その語句で全文検索される
 
 なので、別のフォルダにある・もしくはない場合、BackLinkのような感じになってくれる。

@@ -4,7 +4,7 @@ updated: 1736088099
 ---
 
 ## 彗 CHAR METEORITE 純米吟醸
-![](https://gyazo.com/b426096ff1838737a31bac3321fa1fe7.jpg)
+![](https://img.choiyaki.com/b48142595efad4a24828d3f176419043.jpg)
 
 醸造所：[[遠藤酒造場]]
 スタイル：[[純米吟醸]]

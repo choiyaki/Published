@@ -4,7 +4,7 @@ updated: 1663550721
 ---
 
 ## Mikkeller Burst IPA
-![](https://gyazo.com/359ef5a53d35b46cbfb7d07a732a8629.jpg)
+![](https://img.choiyaki.com/656dc338e263b25c8fb00a214efcacef.jpg)
 
 醸造所：[[Mikkeller]]
 スタイル：[[IPA]]

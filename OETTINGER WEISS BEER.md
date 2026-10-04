@@ -4,7 +4,7 @@ updated: 1706709944
 ---
 
 ## OETTINGER WEISS BEER
-![](https://gyazo.com/2a2109a5eed7047de7149a1ef34e95ee.jpg)
+![](https://img.choiyaki.com/1043bf3ae26bea7f532707b880271f22.jpg)
 
 醸造所：[[コルドンヴェール]]
 スタイル：[[ヴァイツェン]]

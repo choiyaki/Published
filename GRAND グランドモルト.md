@@ -4,7 +4,7 @@ updated: 1696071348
 ---
 
 ## GRAND グランドモルト
-![](https://gyazo.com/0c5288a6287e4dbc0b5bcd18d13185f4.jpg)
+![](https://img.choiyaki.com/40da99fbf027b23cd46ce6b75469a965.jpg)
 
 醸造所：[[巨林フーズ&リカー]]
 スタイル：[[ピルスナー]]

@@ -4,7 +4,7 @@ updated: 1694517906
 ---
 
 ## 【movie】7つの会議
-![](https://gyazo.com/1cb874104be7b9394d581affefd8ac58.jpg)
+![](https://img.choiyaki.com/e4d098823147d1a4357eb1d641f223eb.jpg)
 
 監督：[[福澤克雄]]
 主演：[[野村萬斎]]

@@ -4,7 +4,7 @@ updated: 1676038849
 ---
 
 ## 雷電 季節仕込みビール 極め仕込みシークレットジューシーIPA
-![](https://gyazo.com/2943bc62c7c519839c95394949432e95.jpg)
+![](https://img.choiyaki.com/c9bb7681d72b2b37e2198ba8407181e7.jpg)
 
 醸造所：[[オラホビール]]
 スタイル：[[IPA]]

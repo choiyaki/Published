@@ -4,7 +4,7 @@ updated: 1745504831
 ---
 
 ## ROKKO BEER HAZY SESSION IPA
-![](https://gyazo.com/bd5490823eec4f878355fb13ff51c3d0.jpg)
+![](https://img.choiyaki.com/e22c081b381cef84939678953eb7b9dc.jpg)
 
 醸造所：[[アイエヌインターナショナル]]
 スタイル：[[HAZY IPA]]

@@ -4,7 +4,7 @@ updated: 1707212417
 ---
 
 ## Mikkeller Witbier
-![](https://gyazo.com/1fc8458ca761c73cf0aa617806c8597a.jpg)
+![](https://img.choiyaki.com/95ec9176a9e6ca5e38088a72412e51bd.jpg)
 
 醸造所：[[ウィスク・イー]]
 スタイル：[[ヴァイツェン]]

@@ -4,7 +4,7 @@ updated: 1662723049
 ---
 
 ## 【movie】ソー ラブ＆サンダー
-![](https://gyazo.com/2559cbbf87db8ff206fc129bf347bd66.jpg)
+![](https://img.choiyaki.com/1f97fe38a802d8460119691ce8db704c.jpg)
 
 監督：[[タイカ・ワイティティ]]
 主演：[[クリス・ヘムズワース]]

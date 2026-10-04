@@ -4,7 +4,7 @@ updated: 1644153310
 ---
 
 ### search
-![](https://gyazo.com/669239051c0d1e089dfbc12b32b088f1.img)
+![](https://img.choiyaki.com/f159b1bad046ca1dbad60bd455a459a6.jpg)
 
 面白かった。
 全てが、PCなどの画面上で展開されていく。上手に。FaceTimeで登場人物の表情をとらえつつ、画面上でその主人公が何をしているのかを提示しながら話は展開していく。

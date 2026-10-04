@@ -4,7 +4,7 @@ updated: 1707556564
 ---
 
 ## DHC セッションIPA
-![](https://gyazo.com/54956cdc59defb0f09b4956641c7e5d4.jpg)
+![](https://img.choiyaki.com/55ffbd3cc4f7d6e3daf05ec2927c947e.jpg)
 
 醸造所：[[ディーエイチシー]]
 スタイル：[[IPA]]

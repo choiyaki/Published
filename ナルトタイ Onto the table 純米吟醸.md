@@ -4,7 +4,7 @@ updated: 1773491458
 ---
 
 ### ナルトタイ Onto the table 純米吟醸
-![](https://gyazo.com/dd5ad875c0c36d817619132d777fc5ce.jpg)
+![](https://img.choiyaki.com/8d68e595c84665a40f0d7e8ab82c1588.jpg)
 
 醸造所：[[本家松浦酒造場]]
 スタイル：[[純米吟醸]]

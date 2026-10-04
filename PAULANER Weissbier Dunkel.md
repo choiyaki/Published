@@ -4,7 +4,7 @@ updated: 1729420614
 ---
 
 ## PAULANER Weissbier Dunkel
-![](https://gyazo.com/33c595abf927307218b0d37d337a2c35.jpg)
+![](https://img.choiyaki.com/6b22fa2d2fba6f7fdc14cd37fa296469.jpg)
 
 醸造所：[[PAULANER]]
 スタイル：[[デュンケル]]

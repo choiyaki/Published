@@ -4,7 +4,7 @@ updated: 1715679619
 ---
 
 ## Shimaguni Stout 島国スタウト
-![](https://gyazo.com/4304a3e1baa33ea29b5e0d9b45f1e766.jpg)
+![](https://img.choiyaki.com/226b13e4df2188d5c61519780730e168.jpg)
 
 醸造所：[[ベアードブルーイング]]
 スタイル：[[スタウト]]

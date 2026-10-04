@@ -3,7 +3,7 @@ created: 1776428787
 updated: 1776428831
 ---
 ### SAPPORO EXTRA Feel
-![](https://gyazo.com/8117d2a2ecc3e656b713f590646ca00a.jpg)
+![](https://img.choiyaki.com/42138bc27ef7845b99eb61710b28d46a.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

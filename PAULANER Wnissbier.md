@@ -2,7 +2,7 @@
 created: 1783693333
 updated: 1783693333
 ---
-![](https://i.gyazo.com/eeafddc521c97c3f4d33f17a72632e5c.jpg)
+![](https://img.choiyaki.com/1aa46ebaf29630d75374849cb584de65.jpg)
 
 醸造所：[[アイコン・ユーロパブ]]
 スタイル：[[ヴァイツェン]]

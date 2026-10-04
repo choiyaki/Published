@@ -4,7 +4,7 @@ updated: 1663584730
 ---
 
 ## 信州浪漫 6HOP IPA
-![](https://gyazo.com/6203504468b068bc3caf6258a78eac97.jpg)
+![](https://img.choiyaki.com/77dc62fb45b033851777d585e6ae120a.jpg)
 
 醸造所：[[麗人酒造]]
 スタイル：[[IPA]]

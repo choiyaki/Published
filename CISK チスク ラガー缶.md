@@ -4,7 +4,7 @@ updated: 1759666489
 ---
 
 ### CISK チスク ラガー缶
-![](https://gyazo.com/9d2ccc7a7fcebe889be98714b276679b.jpg)
+![](https://img.choiyaki.com/f8a30d37f8a15eea75fe10f055d42ca1.jpg)
 
 醸造所：[[廣島]]
 スタイル：[[ピルスナー]]

@@ -4,7 +4,7 @@ updated: 1742210254
 ---
 
 ## YEBISU CREATIVE BREW 薫満つ
-![](https://gyazo.com/17e74df235851196e192f9db5ae510f4.jpg)
+![](https://img.choiyaki.com/063fefd0f4cb121c5e6be993ba3d2a29.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

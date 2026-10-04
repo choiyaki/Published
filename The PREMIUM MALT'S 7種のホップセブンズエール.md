@@ -4,7 +4,7 @@ updated: 1755266448
 ---
 
 ### The PREMIUM MALT'S  7種のホップセブンズエール
-![](https://gyazo.com/7aeb345e6114f99ebbf37ac6f07ae993.jpg)
+![](https://img.choiyaki.com/9ab37688edee9e11e2339ccc0a2e8018.jpg)
 
 醸造所：[[サントリー]]
 スタイル：[[エールビール]]

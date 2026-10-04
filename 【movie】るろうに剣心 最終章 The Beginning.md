@@ -4,7 +4,7 @@ updated: 1639978565
 ---
 
 ### るろうに剣心 最終章 The Beginning
-![](https://gyazo.com/450fbfe79ddfb804f42299fadbb1c102.img)
+![](https://img.choiyaki.com/e2a033550b1cae3bc3f3a679eaadd433.jpg)
 
 剣心の十字傷の過去について。
 で、最後がるろうに剣心のはじめにつながってるのは、Beginningにふさわしいし、かつこの作品が最後にもふさわしいし。

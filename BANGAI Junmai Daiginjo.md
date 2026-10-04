@@ -3,7 +3,7 @@ created: 1637236619
 updated: 1637236752
 ---
 
-![](https://gyazo.com/899563dfc0fdb405e522443dff6c38bd.jpg)
+![](https://img.choiyaki.com/0a07799db6e97add80de8a1b27f1d9d5.jpg)
 
 初め飲んだときはあんまり特徴ないなぁと感じたけど、次に飲んだときはフルーティーさがあって、まずまずやったね。
 もっとフルーティーなのが好み。

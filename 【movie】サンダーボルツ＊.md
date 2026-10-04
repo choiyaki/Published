@@ -4,7 +4,7 @@ updated: 1782658082
 ---
 
 ### 【movie】サンダーボルツ＊
-![](https://gyazo.com/e560b9630e6fb065c4abe26402f57fb2.jpg)
+![](https://img.choiyaki.com/5a197fd6f85eecc1562fe2bbcd609d6c.jpg)
 
 監督：[[ジェイク・シュライアー]]
 主演：[[フローレンス・ピュー]]

@@ -3,7 +3,7 @@ created: 1779541374
 updated: 1779541374
 ---
 
-![](https://gyazo.com/8b13ed595a9df3d03e38f43d85025bf5.jpg)
+![](https://img.choiyaki.com/2517c38b213bbe6d6547757b284b090c.jpg)
 [『生成AIとライフハック』（倉下忠憲）](https://amzn.to/4ewqbLL)
 
 著者： [[倉下忠憲]] 

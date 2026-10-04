@@ -5,7 +5,7 @@ updated: 1609777618
 
 #### 【マイノリティ・リポート】
 
-![](https://i.gyazo.com/c8cbc9a3e06e184caaa14b5eeaaa598e.jpg)
+![](https://img.choiyaki.com/f3dc0b1dcfc17f58ed1a8da96cb9240e.jpg)
 
 公開当初、すぐに見た記憶がある。それが残ってたからか、黒幕はわかってしまった。
 けど、その黒幕に至る展開は謎解き要素満載で、おもしろいよね。

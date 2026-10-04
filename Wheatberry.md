@@ -2,7 +2,7 @@
 created: 1786353957
 updated: 1786354035
 ---
-![](https://i.gyazo.com/6e410a44185cbb732c687e7d804d400b.jpg)
+![](https://img.choiyaki.com/9934ec8adfe59d5daedf4462ef44b8d8.jpg)
 
 醸造所：[[グッドウルフ麦酒]]
 スタイル：[[ヴァイツェン]]

@@ -4,7 +4,7 @@ updated: 1703929722
 ---
 
 ## ワインマン23 WINEMAN 23
-![](https://gyazo.com/d05364e8acf2b7491e1bfb5391c9d232.jpg)
+![](https://img.choiyaki.com/8abda4dc43c7308e3155ace14ba19916.jpg)
 
 醸造所：[[リオ・ブルーイング・コー]]
 スタイル：[[セゾン]]

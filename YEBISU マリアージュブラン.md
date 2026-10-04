@@ -4,7 +4,7 @@ updated: 1755341722
 ---
 
 ### YEBISU マリアージュブラン
-![](https://gyazo.com/8f5847c4d1b1b7b305e0c5056d98cc2a.jpg)
+![](https://img.choiyaki.com/e5cb5637bb0900179a3bdd8353162056.jpg)
 
 醸造所：[[サッポロビール]]
 スタイル：[[ピルスナー]]

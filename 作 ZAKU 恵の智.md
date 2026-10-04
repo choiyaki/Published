@@ -4,7 +4,7 @@ updated: 1650642108
 ---
 
 ## 作 ZAKU 恵の智
-![](https://gyazo.com/51b9c2a7f4fa2682bfeba343875d4b1d.jpg)
+![](https://img.choiyaki.com/5c61ed8a9279492821e5cd11b141f354.jpg)
 
 醸造所：[[清水清三郎商店]]
 スタイル：[[純米吟醸]]

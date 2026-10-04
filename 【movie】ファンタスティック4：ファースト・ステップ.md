@@ -4,7 +4,7 @@ updated: 1782220806
 ---
 
 ### 【movie】ファンタスティック４：ファースト・ステップ
-![](https://gyazo.com/db04aecd04d6a5643d9f97e212814e45.jpg)
+![](https://img.choiyaki.com/d159ab3187f746fd8d8b793f9dd98b46.jpg)
 
 監督：[[マット・シャックマン]]
 主演：[[ペドロ・パスカル]]

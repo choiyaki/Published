@@ -4,7 +4,7 @@ updated: 1692710216
 ---
 
 ## 信州 諏訪浪漫 BEER くろゆり
-![](https://gyazo.com/b37f252292386f390be4d91ab8656f3c.jpg)
+![](https://img.choiyaki.com/571f7516bb7d7051fa32ce8e3f87ccaf.jpg)
 
 醸造所：[[麗人酒造]]
 スタイル：[[スタウト]]

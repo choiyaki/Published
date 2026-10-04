@@ -3,7 +3,7 @@ created: 1642908584
 updated: 1642910053
 ---
 
-![](https://gyazo.com/c325c6d22e9e539aabfbb276e742154c.jpg)
+![](https://img.choiyaki.com/4fa6bfc4d823436a6518aa91cfd3ae99.jpg)
 
 スパイシーというか、薬感のある香りというか。アルコール度数は5%と高くないけど、濃厚な味わい。味が多様感じがするね。香りはそんなに好みじゃないなぁ。
 

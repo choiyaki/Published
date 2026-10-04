@@ -4,7 +4,7 @@ updated: 1735906488
 ---
 
 ## The DEAD BEER BROWN ALE
-![](https://gyazo.com/9c93003806904ce7c5a64a76c70afe35.jpg)
+![](https://img.choiyaki.com/4052d6e39417b07cbabfccea144dc1f1.jpg)
 
 醸造所：[[ALLENDE]]
 スタイル：[[アンバーエール]]
@@ -14,7 +14,7 @@ updated: 1735906488
 
 [[🍺ビール]]
 ## The DEAD BEER BROWN ALE
-![](https://gyazo.com/59ba21a6abe8a66e9f07996277340af6.jpg)
+![](https://img.choiyaki.com/d8759ec5b4e2dbbc7c31c608a00927d3.jpg)
 
 醸造所：[[ALLENDE]]
 スタイル：[[アンバーエール]]

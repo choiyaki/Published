@@ -4,7 +4,7 @@ updated: 1782220801
 ---
 
 ### 【movie】スター・ウォーズ エピソード2／クローンの攻撃.md
-![](https://i.gyazo.com/22e6d0889373964560735a18134531dc.jpg)
+![](https://img.choiyaki.com/d84d99b0dedce4b1ac6983a7d156be8e.jpg)
 
 一度か二度見たことあったけど、内容はかなりの部分忘れてたね。
 クローンウォーの開始を告げる回。

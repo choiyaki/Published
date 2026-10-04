@@ -4,7 +4,7 @@ updated: 1765714385
 ---
 
 ### ICHIJI
-![](https://gyazo.com/fa2be22afac56430ddd73c61d2c3e6e5.jpg)
+![](https://img.choiyaki.com/ff026046da47c800e8898daa6fb17221.jpg)
 
 醸造所：[[森山酒造場]]
 スタイル：[[純米]]

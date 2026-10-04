@@ -5,7 +5,7 @@ updated: 1626018198
 
 【movie】ブラック・ウィドウ
 
-![](https://i.gyazo.com/a4209db6bbd7df5d203aca4d9943d245.jpg)
+![](https://img.choiyaki.com/b0ac4076e240a0ea31b2e1cc398147a4.jpg)
 
 アクションが人間離れしてたなー。そこに「今の無理やろ」とか思ったりしながら見てた。
 ストーリーは、よかったね。偽りの家族が、ほんものの家族であったことを知る物語。

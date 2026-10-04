@@ -4,7 +4,7 @@ updated: 1661081490
 ---
 
 ## AWAJI BEER Alt
-![](https://gyazo.com/078ab41c18ed2b2a25d94699e0e1e7a1.jpg)
+![](https://img.choiyaki.com/2def218b15a05d4e64533ec5c4546c66.jpg)
 
 醸造所：[[ユーアールエー]]
 スタイル：[[アルト]]
