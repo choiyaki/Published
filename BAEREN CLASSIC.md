@@ -1,10 +1,10 @@
 ---
 created: 1608393442
-updated: 1608395069
+updated: 1793072445
 ---
 
 BAEREN CLASSIC
-![](https://gyazo.com/8d059d0ddccb22769377a4398fb1debb.img)
+![](https://img.choiyaki.com/ff10ad0b3a52df57d016fad07431cc91.jpg)
 
 苦味がしっかりしてて、おいしかった。これはいいよね。ドライの口当たりと苦さがありつつ、ただ香りは結構特徴的で、香りもよし。
 

@@ -1,10 +1,10 @@
 ---
 created: 1618306520
-updated: 1618306520
+updated: 1793072459
 ---
 
 #### SPRING VALLEY 豊潤 496
-![](https://gyazo.com/bd4cf3103c79c67396e5a2f6b70d2168.jpg)
+![](https://img.choiyaki.com/165d2340771a372f20e22e149bf66b46.jpg)
 
 これは、おいしいね。これをふつーに買えて飲めるなら、リピート確実な感じ。
 キリッとした味わいと苦味、で爽やかさのある香りで好みの味でおいしい。
