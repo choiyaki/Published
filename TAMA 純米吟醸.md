@@ -1,11 +1,11 @@
 ---
 created: 1616333105
-updated: 1616333105
+updated: 1794185637
 ---
 
 #### TAMA 純米吟醸
 
-![](https://gyazo.com/5ecf74e56f3d776be886def212f1a739.image)
+![](https://img.choiyaki.com/d2e4fc2578c71fbf8ebe96b6a18ea5c0.jpg)
 
 ワイン酵母使ってるだけあって、白ワインのような飲み口でスイスイ飲めてしまう。
 日本酒にこの味を求める必要あるのか？と感じるほど、白ワイン感のある日本酒。

@@ -1,10 +1,10 @@
 ---
 created: 1609158258
-updated: 1609158258
+updated: 1794185617
 ---
 
 #### LUCKEY COW
-![](https://gyazo.com/10c9332b09f1c0e9689fa34bc8cd9f3f.img)
+![](https://img.choiyaki.com/99570092d3c0dd745e00b1a1e17f02e4.jpg)
 鋭い苦味が強烈なIPA。まずまずおいしいよね。
 黄桜のこのシリーズ、全部美味しい。苦味のある好みの味が多いからかな。
 

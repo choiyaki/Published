@@ -1,10 +1,10 @@
 ---
 created: 1628340638
-updated: 1628340836
+updated: 1794185647
 ---
 
 箕面ビール おさるIPA
-![](https://gyazo.com/ac2d498314ab487980b97d15c1c53b97.jpg)
+![](https://img.choiyaki.com/d102c1dbc7f1dbd5952524ec428f7987.jpg)
 
 ドロっとした口当たり、苦みがしっかりしてるIPA。甘みがあって、香りはそこまでホップが効いてはおらず、甘味とほんのりな香りとどっしりした苦味のおいしいIPAですね。
 
